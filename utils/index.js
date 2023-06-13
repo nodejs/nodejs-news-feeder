@@ -1,3 +1,22 @@
+import { readFileSync, writeFileSync } from 'fs'
+import { join } from 'path'
+import { createHash } from 'crypto'
+
+const xmlFile = join(process.cwd(), 'feed.xml')
+
+export function getFeedContent () {
+  return readFileSync(xmlFile, 'utf8')
+}
+
+export function overwriteFeedContent (content) {
+  writeFileSync(xmlFile, content)
+}
+
+export function getFeedHash () {
+  const xml = getFeedContent()
+  return createHash('sha256').update(xml).digest('hex')
+}
+
 // @see: https://whitep4nth3r.com/blog/how-to-format-dates-for-rss-feeds-rfc-822/
 export function addLeadingZero (num) {
   num = num.toString()

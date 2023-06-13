@@ -1,8 +1,6 @@
 import xmlFormat from 'xml-formatter'
-import { readFileSync, writeFileSync } from 'fs'
-import { join } from 'path'
+import { getFeedContent, overwriteFeedContent } from '../utils/index.js'
 
-const xmlFile = join(process.cwd(), 'feed.xml')
-const xml = readFileSync(xmlFile, 'utf8')
+const xml = getFeedContent()
 const formattedXml = xmlFormat(xml, { indentation: '  ', collapseContent: true })
-writeFileSync(xmlFile, formattedXml)
+overwriteFeedContent(formattedXml)
