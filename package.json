@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "private": true,
+  "type": "module",
   "scripts": {
     "lint": "standard",
     "lint:fix": "standard --fix"
