@@ -3,9 +3,14 @@ import { join } from 'path'
 import { createHash } from 'crypto'
 
 const xmlFile = join(process.cwd(), 'feed.xml')
+const configFile = join(process.cwd(), 'config.json')
 
 export function getConfig () {
-  return JSON.parse(readFileSync(join(process.cwd(), 'config.json'), 'utf8'))
+  return JSON.parse(readFileSync(configFile, 'utf8'))
+}
+
+export function overwriteConfig (config) {
+  writeFileSync(configFile, JSON.stringify(config, null, 2))
 }
 
 export function composeFeedItem ({ title, description, pubDate, link, guid }) {
