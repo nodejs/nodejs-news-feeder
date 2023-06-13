@@ -6,6 +6,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "rss:build": "node scripts/build.js",
     "rss:format": "node scripts/format.js",
     "rss:format-check": "node scripts/format-check.js",
     "lint": "standard",
