@@ -23,3 +23,6 @@ jobs:
 
     - name: Lint
       run: npm run lint
+
+    - name: RSS Format
+      run: npm run rss:format
