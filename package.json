@@ -37,6 +37,8 @@
     "standard": "17.1.0"
   },
   "dependencies": {
+    "got": "13.0.0",
+    "jsdom": "22.1.0",
     "xml-formatter": "3.4.1"
   }
 }
