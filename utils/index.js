@@ -8,6 +8,18 @@ export function getConfig () {
   return JSON.parse(readFileSync(join(process.cwd(), 'config.json'), 'utf8'))
 }
 
+export function composeFeedItem ({ title, description, pubDate, link, guid }) {
+  return `
+    <item>
+      <title>${title}</title>
+      <description>${description}</description>
+      <pubDate>${pubDate}</pubDate>
+      <link>${link}</link>
+      <guid>${guid}</guid>
+    </item>
+  `
+}
+
 export function getFeedContent () {
   return readFileSync(xmlFile, 'utf8')
 }
