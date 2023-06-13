@@ -27,6 +27,8 @@ jobs:
 
     - name: Collect Releases
       run: npm run collect:releases
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: RSS Build
       run: npm run rss:build
