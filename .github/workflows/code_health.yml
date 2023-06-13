@@ -27,5 +27,8 @@ jobs:
     - name: Test
       run: npm run rss:build
 
+    - name: RSS Build
+      run: npm run rss:build
+
     - name: RSS Format
       run: npm run rss:format
