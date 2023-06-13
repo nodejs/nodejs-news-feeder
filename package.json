@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/UlisesGascon/poc-nodejs-news-feeder/issues"
   },
-  "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme"
+  "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme",
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
 }
