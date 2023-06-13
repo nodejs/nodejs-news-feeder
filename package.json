@@ -24,5 +24,8 @@
   "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme",
   "devDependencies": {
     "standard": "17.1.0"
+  },
+  "dependencies": {
+    "xml-formatter": "3.4.1"
   }
 }
