@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme",
   "devDependencies": {
+    "jest": "29.5.0",
     "standard": "17.1.0"
   },
   "dependencies": {
