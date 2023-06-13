@@ -3,7 +3,7 @@
   <channel>
     <title>Node.js News</title>
     <link>https://feed.nodejs.org/feed.org</link>
-    <atom:link href="https://feed.nodejs.org/feed.org" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feed.nodejs.org/feed.org" rel="self" type="application/rss+xml"/>
     <description>Node.js Core most relevant news</description>
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
