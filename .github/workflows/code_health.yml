@@ -30,8 +30,8 @@ jobs:
     - name: RSS Build
       run: npm run rss:build
 
-    - name: RSS Format
-      run: npm run rss:format
+    - name: RSS Check Format
+      run: npm run rss:format-check
 
     - name: RSS Validate
       run: npm run rss:validate
