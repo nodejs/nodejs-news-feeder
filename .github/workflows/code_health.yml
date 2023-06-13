@@ -32,3 +32,6 @@ jobs:
 
     - name: RSS Format
       run: npm run rss:format
+
+    - name: RSS Validate
+      run: npm run rss:validate
