@@ -40,6 +40,7 @@
     "standard": "17.1.0"
   },
   "dependencies": {
+    "gh-got": "10.0.0",
     "got": "13.0.0",
     "jsdom": "22.1.0",
     "xml-formatter": "3.4.1"
