@@ -4,6 +4,10 @@ import { createHash } from 'crypto'
 
 const xmlFile = join(process.cwd(), 'feed.xml')
 
+export function getConfig () {
+  return JSON.parse(readFileSync(join(process.cwd(), 'config.json'), 'utf8'))
+}
+
 export function getFeedContent () {
   return readFileSync(xmlFile, 'utf8')
 }
