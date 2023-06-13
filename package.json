@@ -6,6 +6,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "collect:releases": "node scripts/collect-releases.js",
     "rss:validate": "node scripts/validate.js",
     "rss:build": "node scripts/build.js",
     "rss:format": "node scripts/format.js",
