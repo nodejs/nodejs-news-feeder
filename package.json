@@ -9,7 +9,13 @@
     "rss:format": "node scripts/format.js",
     "rss:format-check": "node scripts/format-check.js",
     "lint": "standard",
-    "lint:fix": "standard --fix"
+    "lint:fix": "standard --fix",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose",
+    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose --coverage",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose --watchAll"
+  },
+  "standard": {
+    "env": [ "jest" ]
   },
   "repository": {
     "type": "git",
