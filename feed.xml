@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:source="http://source.scripting.com/">
+  <channel>
+    <title>Node.js News</title>
+    <link>https://nodejs.org/</link>
+    <description>Node.js Core most relevant news</description>
+    <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
+    <language>en-us</language>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <lastBuildDate>Tue, 13 Jun 2023 04:30:44 GMT</lastBuildDate>
+    <source:account service="twitter">nodejs</source:account>
+    <image>
+      <title>Node.js Logo in hexagonal format</title>
+      <url>https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg</url>
+      <link>https://nodejs.org/</link>
+    </image>
+  </channel>
+</rss>
