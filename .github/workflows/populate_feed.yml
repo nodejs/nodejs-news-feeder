@@ -6,6 +6,12 @@ on:
 
 name: Populate Feed
 
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+  packages: none
+
 jobs:
   build:
     runs-on: ubuntu-latest
