@@ -1,0 +1,28 @@
+{
+  "name": "poc-nodejs-news-feeder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/poc-nodejs-news-feeder.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/poc-nodejs-news-feeder/issues"
+  },
+  "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme",
+  "devDependencies": {
+    "standard": "17.1.0"
+  }
+}
