@@ -61,3 +61,7 @@ Check the current `feed.xml` against the https://validator.w3.org/feed/check.cgi
 ```bash
 npm run rss:validate
 ```
+
+### License
+
+MIT License
