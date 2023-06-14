@@ -1,10 +1,10 @@
 import ghGot from 'gh-got'
-import { buildRFC822Date, composeFeedItem, getFeedContent, overwriteFeedContent, getConfig } from '../utils/index.js'
+import { buildTitleDate, buildRFC822Date, composeFeedItem, getFeedContent, overwriteFeedContent, getConfig } from '../utils/index.js'
 
 const { lastCheckTimestamp, breakDelimiter, issuesInScope, commentsPaginationLimit } = getConfig()
 
 // Collect all the comments for the issues in scope
-const comments = await Promise.all(issuesInScope.map(async issue => {
+const comments = await Promise.all(issuesInScope.map(async ({ issue, team }) => {
   const issueComments = await ghGot(
               `repos/${issue}/comments`,
               {
@@ -16,11 +16,11 @@ const comments = await Promise.all(issuesInScope.map(async issue => {
   // Select only comments that are newer than the last check and add issue context
   return issueComments
     .filter(comment => new Date(comment.updated_at).getTime() > lastCheckTimestamp)
-    .map(comment => ({ ...comment, issue }))
+    .map(comment => ({ ...comment, issue, team }))
 }))
 
 const relevantComments = comments.flat().map(comment => composeFeedItem({
-  title: 'TODO: REVIEW THIS COMMENT',
+  title: `${comment.team} update on ${buildTitleDate(comment.created_at)}`,
   description: comment.body,
   pubDate: buildRFC822Date(comment.created_at),
   link: comment.html_url,

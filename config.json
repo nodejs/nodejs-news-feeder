@@ -5,9 +5,18 @@
     "commentsPaginationLimit": 100,
     "breakDelimiter": "</image>",
     "issuesInScope": [
-        "ulisesgascon/poc-nodejs-news-feeder/issues/4",
-        "nodejs/uvwasi/issues/201",
-        "nodejs/abi-stable-node/issues/446",
-        "nodejs/security-wg/issues/1006"
+        {   
+            "team": "News Feeder team",
+            "issue": "ulisesgascon/poc-nodejs-news-feeder/issues/4"
+        },         {   
+            "team": "Uvwasi team",
+            "issue": "nodejs/uvwasi/issues/201"
+        },         {   
+            "team": "Node-API and node-addon-api teams",
+            "issue": "nodejs/abi-stable-node/issues/446"
+        },         {   
+            "team": "Security WG",
+            "issue": "nodejs/security-wg/issues/1006"
+        }
     ]
 }
