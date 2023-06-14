@@ -23,3 +23,15 @@ jobs:
 
     - name: Lint
       run: npm run lint
+
+    - name: Test
+      run: npm run rss:build
+
+    - name: RSS Build
+      run: npm run rss:build
+
+    - name: RSS Format
+      run: npm run rss:format
+
+    - name: RSS Validate
+      run: npm run rss:validate

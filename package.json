@@ -4,9 +4,22 @@
   "description": "",
   "main": "index.js",
   "private": true,
+  "type": "module",
   "scripts": {
+    "rss:validate": "node scripts/validate.js",
+    "rss:build": "node scripts/build.js",
+    "rss:format": "node scripts/format.js",
+    "rss:format-check": "node scripts/format-check.js",
     "lint": "standard",
-    "lint:fix": "standard --fix"
+    "lint:fix": "standard --fix",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose",
+    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose --coverage",
+    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose --watchAll"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
   },
   "repository": {
     "type": "git",
@@ -23,6 +36,12 @@
   },
   "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme",
   "devDependencies": {
+    "jest": "29.5.0",
     "standard": "17.1.0"
+  },
+  "dependencies": {
+    "got": "13.0.0",
+    "jsdom": "22.1.0",
+    "xml-formatter": "3.4.1"
   }
 }
