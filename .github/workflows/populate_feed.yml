@@ -1,0 +1,53 @@
+on:
+    workflow_dispatch:
+    # @TODO: uncomment to enable cron
+    # schedule:
+    #   - cron: '0 0 * * *'
+
+name: Populate Feed
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: read
+  packages: none
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '16.19.0'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Collect Releases
+      run: npm run collect:releases
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: RSS Build
+      run: npm run rss:build
+
+    - name: RSS Format
+      run: npm run rss:format
+
+    - name: RSS Validate
+      run: npm run rss:validate
+
+    - name: Create Pull Request
+      uses: gr2m/create-or-update-pull-request-action@77596e3166f328b24613f7082ab30bf2d93079d5
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        commit-message: 'chore: updated feed data'
+        title: Feed Updated 🍿
+        body: 'Feed data Updated. cc: @ulisesGascon @mhdawson'
+        assignees: ${{ github.actor }}
+        labels: content-update
+        branch: feed-update
+        update-pull-request-title-and-body: true

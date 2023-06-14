@@ -6,6 +6,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "collect:releases": "node scripts/collect-releases.js",
     "rss:validate": "node scripts/validate.js",
     "rss:build": "node scripts/build.js",
     "rss:format": "node scripts/format.js",
@@ -40,6 +41,7 @@
     "standard": "17.1.0"
   },
   "dependencies": {
+    "gh-got": "10.0.0",
     "got": "13.0.0",
     "jsdom": "22.1.0",
     "xml-formatter": "3.4.1"

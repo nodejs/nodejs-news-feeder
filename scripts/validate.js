@@ -1,12 +1,9 @@
 import got from 'got'
-import { readFileSync } from 'fs'
-import { join } from 'path'
 import jsdom from 'jsdom'
+import { getFeedContent } from '../utils/index.js'
 
 const { JSDOM } = jsdom
-
-const xmlFile = join(process.cwd(), 'feed.xml')
-const xml = readFileSync(xmlFile, 'utf8')
+const xml = getFeedContent()
 
 try {
   const data = await got.post('https://validator.w3.org/feed/check.cgi', {

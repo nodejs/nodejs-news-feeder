@@ -1,13 +1,15 @@
-import { buildRFC822Date } from '../utils/index.js'
-import { readFileSync, writeFileSync } from 'fs'
-import { join } from 'path'
+import { buildRFC822Date, overwriteFeedContent, getFeedContent, getConfig, overwriteConfig } from '../utils/index.js'
 
-const xmlFile = join(process.cwd(), 'feed.xml')
-const xml = readFileSync(xmlFile, 'utf8')
+const xml = getFeedContent()
 const now = new Date()
 
+// Replace lastBuildDate with current date in the feed
 const lastBuildDateRegex = /<lastBuildDate>.*<\/lastBuildDate>/g
 const [before, after] = xml.split(lastBuildDateRegex)
 const updatedXml = `${before}<lastBuildDate>${buildRFC822Date(now.toISOString())}</lastBuildDate>${after}`
 
-writeFileSync(xmlFile, updatedXml)
+overwriteFeedContent(updatedXml)
+
+// Overwrite config with new timestamp
+const config = getConfig()
+overwriteConfig({ ...config, lastCheckTimestamp: now.getTime() })
