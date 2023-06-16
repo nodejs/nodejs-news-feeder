@@ -1,22 +1,25 @@
 {
-    "lastCheckTimestamp": 1685577600000,
-    "reposPaginationLimit": 250,
-    "releasePaginationLimit": 10,
-    "commentsPaginationLimit": 100,
-    "breakDelimiter": "</image>",
-    "issuesInScope": [
-        {   
-            "team": "News Feeder team",
-            "issue": "ulisesgascon/poc-nodejs-news-feeder/issues/4"
-        },         {   
-            "team": "Uvwasi team",
-            "issue": "nodejs/uvwasi/issues/201"
-        },         {   
-            "team": "Node-API and node-addon-api teams",
-            "issue": "nodejs/abi-stable-node/issues/446"
-        },         {   
-            "team": "Security WG",
-            "issue": "nodejs/security-wg/issues/1006"
-        }
-    ]
+  "lastCheckTimestamp": 1686899017904,
+  "reposPaginationLimit": 250,
+  "releasePaginationLimit": 10,
+  "commentsPaginationLimit": 100,
+  "breakDelimiter": "</image>",
+  "issuesInScope": [
+    {
+      "team": "News Feeder team",
+      "issue": "ulisesgascon/poc-nodejs-news-feeder/issues/4"
+    },
+    {
+      "team": "Uvwasi team",
+      "issue": "nodejs/uvwasi/issues/201"
+    },
+    {
+      "team": "Node-API and node-addon-api teams",
+      "issue": "nodejs/abi-stable-node/issues/446"
+    },
+    {
+      "team": "Security WG",
+      "issue": "nodejs/security-wg/issues/1006"
+    }
+  ]
 }
