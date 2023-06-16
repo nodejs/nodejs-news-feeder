@@ -30,6 +30,11 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Collect Issues (Comments)
+      run: npm run collect:issues
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     - name: RSS Build
       run: npm run rss:build
 

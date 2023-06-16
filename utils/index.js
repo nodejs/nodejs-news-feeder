@@ -5,6 +5,12 @@ import { createHash } from 'crypto'
 const xmlFile = join(process.cwd(), 'feed.xml')
 const configFile = join(process.cwd(), 'config.json')
 
+export function buildTitleDate (timestamp) {
+  const [date, time] = new Date(timestamp).toISOString().split('T')
+  // Format: YYYY-MM-DD HH:MM:SS
+  return `${date} ${time.slice(0, 8)}`
+}
+
 export function getConfig () {
   return JSON.parse(readFileSync(configFile, 'utf8'))
 }
