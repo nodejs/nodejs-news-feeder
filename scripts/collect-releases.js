@@ -30,7 +30,7 @@ const releases = await Promise.all(repos.map(async repo => {
 
 const relevantReleases = releases.flat().map(rel => composeFeedItem({
   title: `Released ${rel.repo} ${rel.tag_name}`,
-  description: rel.body,
+  description: "",
   pubDate: buildRFC822Date(rel.published_at),
   link: rel.html_url,
   guid: rel.html_url
