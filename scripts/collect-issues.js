@@ -21,7 +21,7 @@ const comments = await Promise.all(issuesInScope.map(async ({ issue, team }) => 
 
 const relevantComments = comments.flat().map(comment => composeFeedItem({
   title: `${comment.team} update on ${buildTitleDate(comment.created_at)}`,
-  description: md2html(comment.body),
+  description: `<![CDATA[${md2html(comment.body)}]]>`,
   pubDate: buildRFC822Date(comment.created_at),
   link: comment.html_url,
   guid: comment.html_url
