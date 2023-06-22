@@ -1,9 +1,15 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
 import { createHash } from 'crypto'
+import * as remark from 'remark'
+import remarkHtml from 'remark-html'
 
 const xmlFile = join(process.cwd(), 'feed.xml')
 const configFile = join(process.cwd(), 'config.json')
+
+export function md2html (md) {
+  return remark.remark().use(remarkHtml).processSync(md).toString()
+}
 
 export function buildTitleDate (timestamp) {
   const [date, time] = new Date(timestamp).toISOString().split('T')
