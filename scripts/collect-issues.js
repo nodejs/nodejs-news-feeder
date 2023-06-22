@@ -1,5 +1,5 @@
 import ghGot from 'gh-got'
-import { buildTitleDate, buildRFC822Date, composeFeedItem, getFeedContent, overwriteFeedContent, getConfig } from '../utils/index.js'
+import { md2html, buildTitleDate, buildRFC822Date, composeFeedItem, getFeedContent, overwriteFeedContent, getConfig } from '../utils/index.js'
 
 const { lastCheckTimestamp, breakDelimiter, issuesInScope, commentsPaginationLimit } = getConfig()
 
@@ -21,7 +21,7 @@ const comments = await Promise.all(issuesInScope.map(async ({ issue, team }) => 
 
 const relevantComments = comments.flat().map(comment => composeFeedItem({
   title: `${comment.team} update on ${buildTitleDate(comment.created_at)}`,
-  description: comment.body,
+  description: `<![CDATA[${md2html(comment.body)}]]>`,
   pubDate: buildRFC822Date(comment.created_at),
   link: comment.html_url,
   guid: comment.html_url
