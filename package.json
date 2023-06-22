@@ -1,5 +1,5 @@
 {
-  "name": "poc-nodejs-news-feeder",
+  "name": "news-feeder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UlisesGascon/poc-nodejs-news-feeder.git"
+    "url": "git+https://github.com/nodejs/news-feeder.git"
   },
   "author": "",
   "license": "MIT",
@@ -34,9 +34,9 @@
     "npm": ">=9.0.0"
   },
   "bugs": {
-    "url": "https://github.com/UlisesGascon/poc-nodejs-news-feeder/issues"
+    "url": "https://github.com/nodejs/news-feeder/issues"
   },
-  "homepage": "https://github.com/UlisesGascon/poc-nodejs-news-feeder#readme",
+  "homepage": "https://github.com/nodejs/news-feeder#readme",
   "devDependencies": {
     "jest": "29.5.0",
     "standard": "17.1.0"
