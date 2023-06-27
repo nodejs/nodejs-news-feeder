@@ -17,6 +17,10 @@
         },         {   
             "team": "Security WG",
             "issue": "nodejs/security-wg/issues/1006"
+        },
+        {
+            "team": "Single Executable team",
+            "issue": "nodejs/single-executable/issues/74"
         }, {
             "team": "Performance team",
             "issue": "nodejs/performance/issues/98"
