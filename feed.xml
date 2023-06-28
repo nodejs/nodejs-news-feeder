@@ -15,15 +15,6 @@
       <link>https://feed.nodejs.org/feed.org</link>
     </image>
     <item>
-      <title>News Feeder team update on 2023-06-13 21:16:09</title>
-      <description><![CDATA[<p>Soon we will have a new Feed notification system.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, orci ac consequat volutpat, lorem urna aliquam nunc, vitae rhoncus augue neque eget orci. Proin ipsum nibh, posuere ut volutpat ut, auctor a ipsum.</p>
-]]></description>
-      <pubDate>Tue, 13 Jun 2023 21:16:00 GMT</pubDate>
-      <link>https://github.com/nodejs/nodejs-news-feeder/issues/4#issuecomment-1590037559</link>
-      <guid>https://github.com/nodejs/nodejs-news-feeder/issues/4#issuecomment-1590037559</guid>
-    </item>
-    <item>
       <title>Uvwasi team update on 2023-06-07 18:05:55</title>
       <description><![CDATA[<p>Node.js main branch updated to include v0.0.18 version os uvwasi</p>
 ]]></description>
