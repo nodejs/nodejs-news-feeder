@@ -8,11 +8,141 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Tue, 13 Jun 2023 15:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 09:39:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://feed.nodejs.org/feed.org</link>
     </image>
+    <item>
+      <title>News Feeder team update on 2023-06-13 21:16:09</title>
+      <description><![CDATA[<p>Soon we will have a new Feed notification system.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec auctor, orci ac consequat volutpat, lorem urna aliquam nunc, vitae rhoncus augue neque eget orci. Proin ipsum nibh, posuere ut volutpat ut, auctor a ipsum.</p>
+]]></description>
+      <pubDate>Tue, 13 Jun 2023 21:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-news-feeder/issues/4#issuecomment-1590037559</link>
+      <guid>https://github.com/nodejs/nodejs-news-feeder/issues/4#issuecomment-1590037559</guid>
+    </item>
+    <item>
+      <title>Uvwasi team update on 2023-06-07 18:05:55</title>
+      <description><![CDATA[<p>Node.js main branch updated to include v0.0.18 version os uvwasi</p>
+]]></description>
+      <pubDate>Wed, 07 Jun 2023 18:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/issues/201#issuecomment-1581283377</link>
+      <guid>https://github.com/nodejs/uvwasi/issues/201#issuecomment-1581283377</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2023-06-02 15:09:28</title>
+      <description><![CDATA[<p>Node-API version 9 has been landed: https://github.com/nodejs/node/pull/48151.</p>
+]]></description>
+      <pubDate>Fri, 02 Jun 2023 15:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1573890828</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1573890828</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v0.6.2</title>
+      <description></description>
+      <pubDate>Tue, 13 Jun 2023 16:22:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v0.6.2</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v0.6.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v0.6.1</title>
+      <description></description>
+      <pubDate>Tue, 13 Jun 2023 16:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v0.6.1</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v0.6.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v0.6.0</title>
+      <description></description>
+      <pubDate>Tue, 13 Jun 2023 15:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v0.6.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v0.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.19.0</title>
+      <description></description>
+      <pubDate>Sat, 24 Jun 2023 16:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.19.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.19.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.18.1</title>
+      <description></description>
+      <pubDate>Tue, 13 Jun 2023 12:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.18.1</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.18.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v8.1.1</title>
+      <description></description>
+      <pubDate>Wed, 21 Jun 2023 08:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v8.1.1</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v8.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v6.0.11</title>
+      <description></description>
+      <pubDate>Wed, 21 Jun 2023 08:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v6.0.11</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v6.0.11</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.3.1</title>
+      <description></description>
+      <pubDate>Tue, 20 Jun 2023 20:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.3.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.3.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.16.1</title>
+      <description></description>
+      <pubDate>Tue, 20 Jun 2023 20:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.16.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.16.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v16.20.1</title>
+      <description></description>
+      <pubDate>Tue, 20 Jun 2023 19:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v16.20.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v16.20.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.3.0</title>
+      <description></description>
+      <pubDate>Thu, 08 Jun 2023 16:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.3.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v7.0.0</title>
+      <description></description>
+      <pubDate>Fri, 16 Jun 2023 21:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v7.0.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v7.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.2.0</title>
+      <description></description>
+      <pubDate>Mon, 26 Jun 2023 06:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.2.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.1.0</title>
+      <description></description>
+      <pubDate>Mon, 12 Jun 2023 06:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.1.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v9.4.0</title>
+      <description></description>
+      <pubDate>Tue, 13 Jun 2023 04:48:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v9.4.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v9.4.0</guid>
+    </item>
   </channel>
 </rss>
