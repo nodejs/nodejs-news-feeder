@@ -4,17 +4,17 @@
 
 This project is a proof of concept of a news feeder using NodeJS. It uses the Github API to fetch the relevant information from issues, releases..and then it generates a RSS feed with the latest news.
 
-The RSS feed is available at https://raw.githubusercontent.com/nodejs/news-feeder/main/feed.xml and https://ulisesgascon.github.io/news-feeder/feed.xml
+The RSS feed is available at https://raw.githubusercontent.com/nodejs/nodejs-news-feeder/main/feed.xml and https://ulisesgascon.github.io/nodejs-news-feeder/feed.xml
 
-In order to update the RSS feed, you need to trigger the Github Action `Populate Feed` [manually](https://github.com/nodejs/news-feeder/actions/workflows/populate_feed.yml) or wait for the CRON job.
+In order to update the RSS feed, you need to trigger the Github Action `Populate Feed` [manually](https://github.com/nodejs/nodejs-news-feeder/actions/workflows/populate_feed.yml) or wait for the CRON job.
 
 This process will generate a PR with the latest news, so we can change the content and decide when to merge it.
 
 ### Development
 
 ```bash
-git clone https://github.com/nodejs/news-feeder
-cd news-feeder
+git clone https://github.com/nodejs/nodejs-news-feeder
+cd nodejs-news-feeder
 nvm use
 npm install
 ```
