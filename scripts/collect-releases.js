@@ -1,5 +1,5 @@
 import ghGot from 'gh-got'
-import { buildRFC822Date, composeFeedItem, getFeedContent, overwriteFeedContent, getConfig } from '../utils/index.js'
+import { md2html, buildRFC822Date, composeFeedItem, getFeedContent, overwriteFeedContent, getConfig } from '../utils/index.js'
 
 const { lastCheckTimestamp, releasePaginationLimit, reposPaginationLimit, breakDelimiter } = getConfig()
 
@@ -30,7 +30,7 @@ const releases = await Promise.all(repos.map(async repo => {
 
 const relevantReleases = releases.flat().map(rel => composeFeedItem({
   title: `Released ${rel.repo} ${rel.tag_name}`,
-  description: '',
+  description: `<![CDATA[${md2html(`Released ${rel.repo} ${rel.tag_name} by ${rel.author.login}. [More details](${rel.html_url})`)}]]>`,
   pubDate: buildRFC822Date(rel.published_at),
   link: rel.html_url,
   guid: rel.html_url
