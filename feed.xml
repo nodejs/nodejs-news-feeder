@@ -15,6 +15,22 @@
       <link>https://feed.nodejs.org/feed.org</link>
     </image>
     <item>
+      <title>Node.js Core update on 2023-04-24 17:45:28</title>
+      <description><![CDATA[<p>Will all announcements be posted in this thread? Maybe we should pin it!</p>
+]]></description>
+      <pubDate>Mon, 24 Apr 2023 19:45:00 GMT</pubDate>
+      <link>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-5711246</link>
+      <guid>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-5711246</guid>
+    </item>
+    <item>
+      <title>Node.js Core update on 2023-05-29 16:17:14</title>
+      <description><![CDATA[<p>@nodejs/collaborators wanted to give everybody an FYI that we've recently reached out to a number of the publications on the list mentioned in https://github.com/nodejs/next-10/issues/110#issue-1108261051 and now and going forward is a good time to start sharing project news in this discussion thread.</p>
+]]></description>
+      <pubDate>Mon, 29 May 2023 18:17:00 GMT</pubDate>
+      <link>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-6030594</link>
+      <guid>https://github.com/orgs/nodejs/discussions/47703#discussioncomment-6030594</guid>
+    </item>
+    <item>
       <title>Uvwasi team update on 2023-06-07 18:05:55</title>
       <description><![CDATA[<p>Node.js main branch updated to include v0.0.18 version os uvwasi</p>
 ]]></description>
