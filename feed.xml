@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Wed, 28 Jun 2023 09:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2023 14:02:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/caritat v1.0.1</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.0.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 28 Jun 2023 23:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.0.1</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v1.0.0</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.0.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 28 Jun 2023 22:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.0.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.0.0</guid>
+    </item>
     <item>
       <title>Uvwasi team update on 2023-06-07 18:05:55</title>
       <description><![CDATA[<p>Node.js main branch updated to include v0.0.18 version os uvwasi</p>
