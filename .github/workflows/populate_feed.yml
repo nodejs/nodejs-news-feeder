@@ -1,8 +1,7 @@
 on:
     workflow_dispatch:
-    # @TODO: uncomment to enable cron
-    # schedule:
-    #   - cron: '0 0 * * *'
+    schedule:
+        - cron: '0 0 * * 0'
 
 name: Populate Feed
 
