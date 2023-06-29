@@ -35,6 +35,11 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Collect Discussions (Comments)
+      run: npm run collect:discussions
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
+
     - name: RSS Build
       run: npm run rss:build
 
