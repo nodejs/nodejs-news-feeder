@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Jul 2023 00:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 19:07:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v20.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.4.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.4.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 05 Jul 2023 15:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.4.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.4.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.2.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.2.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.2.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 04 Jul 2023 15:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.2.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.2.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/readable-stream v4.4.2</title>
+      <description><![CDATA[<p>Released nodejs/readable-stream v4.4.2 by mcollina. <a href="https://github.com/nodejs/readable-stream/releases/tag/v4.4.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 03 Jul 2023 12:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/readable-stream/releases/tag/v4.4.2</link>
+      <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.4.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/readable-stream v4.4.1</title>
+      <description><![CDATA[<p>Released nodejs/readable-stream v4.4.1 by mcollina. <a href="https://github.com/nodejs/readable-stream/releases/tag/v4.4.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 03 Jul 2023 12:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/readable-stream/releases/tag/v4.4.1</link>
+      <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.4.1</guid>
+    </item>
     <item>
       <title>Released nodejs/caritat v1.0.1</title>
       <description><![CDATA[<p>Released nodejs/caritat v1.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.0.1">More details</a></p>
