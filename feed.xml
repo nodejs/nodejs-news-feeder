@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 16 Jul 2023 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v20.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.5.0 by juanarbol. <a href="https://github.com/nodejs/node/releases/tag/v20.5.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 20 Jul 2023 21:41:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.5.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.17.0</title>
+      <description><![CDATA[<p>Released nodejs/node v18.17.0 by danielleadams. <a href="https://github.com/nodejs/node/releases/tag/v18.17.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 18 Jul 2023 20:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.17.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.17.0</guid>
+    </item>
     <item>
       <title>Released nodejs/branch-diff v2.1.2</title>
       <description><![CDATA[<p>Released nodejs/branch-diff v2.1.2 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v2.1.2">More details</a></p>
