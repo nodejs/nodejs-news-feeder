@@ -34,6 +34,10 @@
     {
       "team": "Performance team",
       "issue": "nodejs/performance/issues/98"
+    },
+    {
+      "team": "Website team",
+      "issue": "nodejs/nodejs.org/issues/5602"
     }
   ]
 }
