@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 30 Jul 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Aug 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2023-08-05 12:18:06</title>
+      <description><![CDATA[<p>node-api-headers v1.1.0 has been released.</p>
+]]></description>
+      <pubDate>Sat, 05 Aug 2023 12:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1666490129</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1666490129</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v9.0.0</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.0.0 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.0.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 31 Jul 2023 14:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.0.0</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-api-headers v1.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-api-headers v1.1.0 by NickNaso. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.1.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 05 Aug 2023 12:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.1.0</link>
+      <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.3.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.3.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 04 Aug 2023 20:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.3.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.23.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.23.0 by ronag. <a href="https://github.com/nodejs/undici/releases/tag/v5.23.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 03 Aug 2023 08:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.23.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.23.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node v20.5.0</title>
       <description><![CDATA[<p>Released nodejs/node v20.5.0 by juanarbol. <a href="https://github.com/nodejs/node/releases/tag/v20.5.0">More details</a></p>
