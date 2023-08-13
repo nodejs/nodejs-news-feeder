@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 06 Aug 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2023 00:07:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v20.5.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.5.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.5.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 09 Aug 2023 17:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.5.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.5.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.17.1</title>
+      <description><![CDATA[<p>Released nodejs/node v18.17.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v18.17.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 09 Aug 2023 17:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.17.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.17.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v16.20.2</title>
+      <description><![CDATA[<p>Released nodejs/node v16.20.2 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v16.20.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 09 Aug 2023 17:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v16.20.2</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v16.20.2</guid>
+    </item>
     <item>
       <title>Node-API and node-addon-api teams update on 2023-08-05 12:18:06</title>
       <description><![CDATA[<p>node-api-headers v1.1.0 has been released.</p>
