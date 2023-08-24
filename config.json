@@ -21,10 +21,7 @@
     },
     {
       "team": "Node-API and node-addon-api teams",
-      "issue": "nodejs/abi-stable    {
-      "team": "Website team",
-      "issue": "nodejs/nodejs.org/issues/5602"
-    }-node/issues/446"
+      "issue": "nodejs/abi-stable
     },
     {
       "team": "Security WG",
