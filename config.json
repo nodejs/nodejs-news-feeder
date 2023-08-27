@@ -38,6 +38,10 @@
     {
       "team": "Website team",
       "issue": "nodejs/nodejs.org/issues/5602"
-    }
+    },
+    {
+      "team": "Diagnostic team",
+      "issue": "nodejs/diagnostics/issues/619"
+    }    
   ]
 }
