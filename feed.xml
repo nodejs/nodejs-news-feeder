@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 27 Aug 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Website team update on 2023-08-27 12:14:31</title>
+      <description><![CDATA[<p>I assume we could do this, but we don't have the bandwidth right now, I guess</p>
+]]></description>
+      <pubDate>Sun, 27 Aug 2023 12:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs.org/issues/5602#issuecomment-1694652630</link>
+      <guid>https://github.com/nodejs/nodejs.org/issues/5602#issuecomment-1694652630</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.20.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.20.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.20.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 29 Aug 2023 15:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.20.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.20.0</guid>
+    </item>
     <item>
       <title>Released nodejs/branch-diff v2.1.4</title>
       <description><![CDATA[<p>Released nodejs/branch-diff v2.1.4 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v2.1.4">More details</a></p>

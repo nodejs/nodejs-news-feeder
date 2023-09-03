@@ -1,5 +1,5 @@
 {
-  "lastCheckTimestamp": 1693094888796,
+  "lastCheckTimestamp": 1693699681459,
   "reposPaginationLimit": 250,
   "releasePaginationLimit": 10,
   "commentsPaginationLimit": 100,
@@ -42,6 +42,6 @@
     {
       "team": "Diagnostic team",
       "issue": "nodejs/diagnostics/issues/619"
-    }    
+    }
   ]
 }
