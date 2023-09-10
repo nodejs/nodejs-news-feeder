@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 03 Sep 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/caritat v1.2.0</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.2.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 03 Sep 2023 18:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.2.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.6.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.6.1 by ruyadorno. <a href="https://github.com/nodejs/node/releases/tag/v20.6.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 08 Sep 2023 16:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.6.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.6.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.6.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.6.0 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v20.6.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 04 Sep 2023 20:30:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.6.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.4.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 04 Sep 2023 08:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.4.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.4.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.24.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.24.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.24.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 08 Sep 2023 14:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.24.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.24.0</guid>
+    </item>
     <item>
       <title>Website team update on 2023-08-27 12:14:31</title>
       <description><![CDATA[<p>I assume we could do this, but we don't have the bandwidth right now, I guess</p>
