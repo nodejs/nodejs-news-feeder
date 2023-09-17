@@ -8,12 +8,60 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 10 Sep 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/llhttp release/v9.1.2</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.1.2 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.1.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 13 Sep 2023 11:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.2</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v9.1.1</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.1.1 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.1.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 13 Sep 2023 10:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.1</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v9.1.0</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.1.0 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 13 Sep 2023 10:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.4.2</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.4.2 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.4.2">More details</a></p>
+]]></description>
+      <pubDate>Fri, 15 Sep 2023 14:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.4.2</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.4.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.4.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.4.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.4.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 12 Sep 2023 20:37:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.4.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.4.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/uvwasi v0.0.19</title>
+      <description><![CDATA[<p>Released nodejs/uvwasi v0.0.19 by mhdawson. <a href="https://github.com/nodejs/uvwasi/releases/tag/v0.0.19">More details</a></p>
+]]></description>
+      <pubDate>Wed, 13 Sep 2023 18:41:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/releases/tag/v0.0.19</link>
+      <guid>https://github.com/nodejs/uvwasi/releases/tag/v0.0.19</guid>
+    </item>
     <item>
       <title>Released nodejs/caritat v1.2.0</title>
       <description><![CDATA[<p>Released nodejs/caritat v1.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.2.0">More details</a></p>
