@@ -8,12 +8,68 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 17 Sep 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Uvwasi team update on 2023-09-17 07:54:25</title>
+      <description><![CDATA[<p>v0.0.19 was released which includes an initial implementation of the WASI preview 1 socket methods including https://github.com/WebAssembly/WASI/blob/main/legacy/preview1/docs.md#-sock_acceptfd-fd-flags-fdflags---resultfd-errno. The next step is to expose these in the Node.js WASI implementation.</p>
+]]></description>
+      <pubDate>Sun, 17 Sep 2023 07:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/issues/201#issuecomment-1722417895</link>
+      <guid>https://github.com/nodejs/uvwasi/issues/201#issuecomment-1722417895</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2023-09-22 15:05:55</title>
+      <description><![CDATA[<p>node-canvas was ported to Node-API: https://github.com/Automattic/node-canvas/pull/2235</p>
+]]></description>
+      <pubDate>Fri, 22 Sep 2023 15:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1731579345</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1731579345</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.7.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.7.0 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v20.7.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 18 Sep 2023 19:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.7.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.7.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.18.0</title>
+      <description><![CDATA[<p>Released nodejs/node v18.18.0 by ruyadorno. <a href="https://github.com/nodejs/node/releases/tag/v18.18.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 18 Sep 2023 22:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.18.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.18.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.25.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.25.2 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.25.2">More details</a></p>
+]]></description>
+      <pubDate>Fri, 22 Sep 2023 17:37:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.25.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.25.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.25.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.25.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.25.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 21 Sep 2023 09:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.25.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.25.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.25.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.25.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.25.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 20 Sep 2023 13:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.25.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.25.0</guid>
+    </item>
     <item>
       <title>Released nodejs/llhttp release/v9.1.2</title>
       <description><![CDATA[<p>Released nodejs/llhttp release/v9.1.2 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.1.2">More details</a></p>
