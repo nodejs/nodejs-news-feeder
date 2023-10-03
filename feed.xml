@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 24 Sep 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/changelog-maker v3.2.5</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v3.2.5 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 27 Sep 2023 02:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.8.0 by ruyadorno. <a href="https://github.com/nodejs/node/releases/tag/v20.8.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 29 Sep 2023 03:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.8.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v4.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v4.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v4.0.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 24 Sep 2023 21:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v4.0.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v4.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v3.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v3.5.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v3.5.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 24 Sep 2023 09:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v3.5.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v3.5.0</guid>
+    </item>
     <item>
       <title>Uvwasi team update on 2023-09-17 07:54:25</title>
       <description><![CDATA[<p>v0.0.19 was released which includes an initial implementation of the WASI preview 1 socket methods including https://github.com/WebAssembly/WASI/blob/main/legacy/preview1/docs.md#-sock_acceptfd-fd-flags-fdflags---resultfd-errno. The next step is to expose these in the Node.js WASI implementation.</p>
