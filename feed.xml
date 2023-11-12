@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 05 Nov 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/corepack v0.23.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.23.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.23.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 05 Nov 2023 10:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.23.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.23.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node-gyp v10.0.1</title>
       <description><![CDATA[<p>Released nodejs/node-gyp v10.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-gyp/releases/tag/v10.0.1">More details</a></p>
