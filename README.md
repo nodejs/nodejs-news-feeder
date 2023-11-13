@@ -4,6 +4,8 @@
 
 As the Node.js organization continues to grow and expand, it becomes increasingly difficult to keep track of all the ongoing projects, teams, and working groups. We've recognized this challenge and have been actively seeking solutions to improve communication and awareness within our community.
 
+This feed was established with the intention of offering support for news sites, blogs, and other creators that aim to deliver timely updates on Node.js news, releases, and other content relevant to the Node.js community.
+
 The RSS feed is available at https://nodejs.github.io/nodejs-news-feeder/feed.xml, optionally you can subscribe to the Slack channel `#nodejs-news-feeder` to receive the latest news.
 
 In order to update the RSS feed, you need to trigger the Github Action `Populate Feed` [manually](https://github.com/nodejs/nodejs-news-feeder/actions/workflows/populate_feed.yml) or wait for the CRON job.
