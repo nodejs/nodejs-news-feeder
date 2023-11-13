@@ -4,6 +4,7 @@ import { createHash } from 'crypto'
 import * as remark from 'remark'
 import remarkHtml from 'remark-html'
 
+const dateRegex = /(\d*-\d*-\d*)/gm
 const xmlFile = join(process.cwd(), 'feed.xml')
 const configFile = join(process.cwd(), 'config.json')
 
@@ -73,4 +74,19 @@ export function buildRFC822Date (dateString) {
 
   // Wed, 02 Oct 2002 13:00:00 GMT
   return `${day}, ${dayNumber} ${month} ${year} ${time} ${timezone}`
+}
+
+export function generateRetroRequestUrl (dateString) {
+  return `https://raw.githubusercontent.com/cutenode/retro-weekly/main/retros/${dateString}.md`
+}
+
+export function generateRetroUIUrl (dateString) {
+  return `https://github.com/cutenode/retro-weekly/blob/main/retros/${dateString}.md`
+}
+
+export function parseRetrospectiveContent (data) {
+  const [rawTitle, , description] = data.split('\n')
+  const title = rawTitle.replace('# ', '').replaceAll('`', '').trim()
+  const dates = title.split(dateRegex)
+  return { title, description, lastDay: dates[1], nextDay: dates[3] }
 }
