@@ -3,6 +3,10 @@
   "reposPaginationLimit": 250,
   "releasePaginationLimit": 10,
   "commentsPaginationLimit": 100,
+  "retrospective": {
+    "lastDay": "2023-10-15",
+    "nextDay": "2023-10-22"
+  },
   "breakDelimiter": "</image>",
   "discussionsInScope": [
     {

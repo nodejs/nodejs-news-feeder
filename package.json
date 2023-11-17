@@ -9,6 +9,7 @@
     "collect:releases": "node scripts/collect-releases.js",
     "collect:issues": "node scripts/collect-issues.js",
     "collect:discussions": "node scripts/collect-discussions.js",
+    "collect:retrospective": "node scripts/collect-retrospective.js",
     "rss:validate": "node scripts/validate.js",
     "rss:build": "node scripts/build.js",
     "rss:format": "node scripts/format.js",

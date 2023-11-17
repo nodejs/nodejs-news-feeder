@@ -39,6 +39,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
 
+    - name: Collect Retrospective
+      run: npm run collect:retrospective
+
     - name: RSS Build
       run: npm run rss:build
 
