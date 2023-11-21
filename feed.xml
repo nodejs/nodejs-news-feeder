@@ -8,12 +8,19 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Tue, 21 Nov 2023 07:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 07:15:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2023-11-12 to 2023-11-19</title>
+      <description><![CDATA[<p>Reporting on 35 Issues from 26 authors, 65 Pull Requests from 38 authors, and 13 Discussions from 12 authors.</p>]]></description>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-11-12.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-11-12.md</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-11-05 to 2023-11-12</title>
       <description><![CDATA[<p>Reporting on 45 Issues from 25 authors, 55 Pull Requests from 36 authors, and 9 Discussions from 9 authors.</p>]]></description>
