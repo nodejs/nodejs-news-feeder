@@ -8,12 +8,35 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 12 Nov 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 07:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2023-10-22 to 2023-10-29</title>
+      <description><![CDATA[<p>Reporting on 35 Issues from 29 authors, 65 Pull Requests from 33 authors, and 9 Discussions from 7 authors.</p>]]></description>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-10-22.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-10-22.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node v21.2.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v21.2.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 14 Nov 2023 18:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.2.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v4.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v4.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v4.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 Nov 2023 10:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v4.2.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v4.2.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-10-15 to 2023-10-22</title>
       <description><![CDATA[<p>Reporting on 35 Issues from 29 authors, 65 Pull Requests from 33 authors, and 9 Discussions from 7 authors.</p>]]></description>
