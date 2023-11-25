@@ -6,7 +6,20 @@ As the Node.js organization continues to grow and expand, it becomes increasingl
 
 This feed was established with the intention of offering support for news sites, blogs, and other creators that aim to deliver timely updates on Node.js news, releases, and other content relevant to the Node.js community.
 
+
+#### Consume the feed
 The RSS feed is available at https://nodejs.github.io/nodejs-news-feeder/feed.xml, optionally you can subscribe to the Slack channel `#nodejs-news-feeder` to receive the latest news.
+
+#### Use your terminal to read the latest news
+You can also read the latest news directly from your terminal using the following command:
+
+```bash
+curl -s https://nodejs.github.io/nodejs-news-feeder/feed.xml | grep -E '(<title>|<link>|<pubDate>)' | sed 's/<[^>]*>//g' | sed 's/^[ \t]*//;s/[ \t]*$//'
+```
+
+#### Read the news on your browser
+
+You can also read the latest news on your browser using the following link: [https://nodejs.github.io/nodejs-news-feeder/](https://nodejs.github.io/nodejs-news-feeder/)
 
 In order to update the RSS feed, you need to trigger the Github Action `Populate Feed` [manually](https://github.com/nodejs/nodejs-news-feeder/actions/workflows/populate_feed.yml) or wait for the CRON job.
 
