@@ -35,3 +35,6 @@ jobs:
 
     - name: RSS Validate
       run: npm run rss:validate
+
+    - name: Build website
+      run: npm run website:build
