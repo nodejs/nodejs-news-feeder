@@ -7,6 +7,8 @@ import remarkHtml from 'remark-html'
 const dateRegex = /(\d*-\d*-\d*)/gm
 const xmlFile = join(process.cwd(), 'feed.xml')
 const configFile = join(process.cwd(), 'config.json')
+const websiteFile = join(process.cwd(), 'index.html')
+const websiteTemplate = join(process.cwd(), 'templates', 'index.html.ejs')
 
 export function md2html (md) {
   return remark.remark().use(remarkHtml).processSync(md).toString()
@@ -42,8 +44,16 @@ export function getFeedContent () {
   return readFileSync(xmlFile, 'utf8')
 }
 
+export function getWebsiteTemplate () {
+  return readFileSync(websiteTemplate, 'utf8')
+}
+
 export function overwriteFeedContent (content) {
   writeFileSync(xmlFile, content)
+}
+
+export function overwriteWebsiteContent (content) {
+  writeFileSync(websiteFile, content)
 }
 
 export function getFeedHash () {
