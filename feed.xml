@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Tue, 21 Nov 2023 07:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://pbs.twimg.com/profile_images/1262824892535373825/BiXDFDDp_400x400.jpg</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v20.10.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.10.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v20.10.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 22 Nov 2023 15:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.10.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.10.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.28.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.28.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 24 Nov 2023 09:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.28.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.28.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-11-12 to 2023-11-19</title>
       <description><![CDATA[<p>Reporting on 35 Issues from 26 authors, 65 Pull Requests from 38 authors, and 13 Discussions from 12 authors.</p>]]></description>
