@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <%= metadata.title %>
+    </title>
+    <link rel="icon" href="https://nodejs.org/static/images/favicons/favicon.png">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Node.js" />
+    <meta name="copyright" content="Node.js" />
+    <meta name="keywords" content="Node.js, Collaborators, Core, News, Feed, RSS" />
+    <meta name="description" content="<%= metadata.description %>" />
+    <meta property="og:title" content="<%= metadata.title %>">
+    <meta property="og:type" content="article" />
+    <meta property="og:image" content="<%= metadata.image.url %>">
+    <meta property="og:url" content="<%= metadata.image.link %>">
+    <meta property="og:description" content="<%= metadata.description %>">
+    <meta property="og:site_name" content="<%= metadata.title %>">
+    <meta name="twitter:site" content="@nodejs">
+    <meta name="twitter:image:alt" content="<%= metadata.image.title %>">
+    <meta name="twitter:card" content="article">
+    <meta name="twitter:creator" content="@nodejs">
+    <meta name="twitter:title" content="<%= metadata.title %>">
+    <meta name="twitter:description" content="<%= metadata.description %>">
+    <meta name="twitter:image" content="<%= metadata.image.url %>">
+    <meta name="twitter:image:alt" content="The Node.js Hexagon Logo">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap" rel="stylesheet">
+    <style>
+        /* http://meyerweb.com/eric/tools/css/reset/ */
+        /* v1.0 | 20080212 */
+        a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,ol,p,pre,q,s,samp,small,span,strike,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:0 0}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+    </style>
+    <style>
+        body {
+            font-family: 'Source Sans 3', sans-serif;
+            font-weight: 400;
+            font-style: normal;
+            background-color: #333;
+        }
+
+        h1 {
+            font-size: 30px;
+            line-height: 45px;
+        }
+
+        h2 {
+            font-size: 26px;
+            line-height: 39px;
+        }
+
+        h3 {
+            font-size: 23px;
+            line-height: 35px;
+        }
+
+        p {
+            font-size: 20px;
+            line-height: 30px;
+        }
+
+        main {
+            background-color: #fff;
+        }
+
+        a,
+        a:active,
+        a:link {
+            border-radius: 5px;
+            color: #43853d;
+            text-decoration: none;
+        }
+
+        a:hover {
+            background-color: #43853d;
+            color: #fff;
+        }
+
+        p a {
+            margin-left: -2px;
+            margin-right: -2px;
+            padding-left: 2px;
+            padding-right: 2px;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 2em;
+        }
+
+        .description {
+            margin-bottom: 1em;
+            margin-top: 1em;
+        }
+        .feed-items{
+            margin-top: 1.5em;
+        }
+        article {
+            margin-bottom: 1.5em;
+        }
+
+        p.feed-time {
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+
+        a.feed-link {
+            display: inline-block;
+            background-color: #026e00;
+            color: #fff;
+            font-size: 20px;
+            padding: 0.2em 0.6em;
+            transition: background-color .2s ease-in-out;
+        }
+
+        a.feed-link:hover {
+            color: #fff;
+            background-color: #43853d;
+        }
+
+        footer {
+            background-color: #333;
+            margin-top: 2em;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        footer>p {
+            color: #fff;
+            direction: ltr;
+            font-size: 13px;
+            line-height: 19.5px;
+            text-align: center;
+            max-width: 980px;
+            width: 100%;
+        }
+        footer a,
+        a:active,
+        footer a:link {
+            color: #add8e6;
+            background-color: transparent;
+            
+        }
+        footer a:hover{
+            text-decoration: underline;
+        }
+
+
+        .openjsfoundation-footer-links {
+            margin-top: 1em;
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div class="container">
+            <h1>
+                <%= metadata.title %>
+            </h1>
+            <p class="description">
+                <%= metadata.description %>
+            </p>
+
+            <h2>Latest News</h2>
+
+            <div class="feed-items">
+
+                <% items.forEach(function(item, index) { %>
+                    <hr>
+                    <article>
+                        <h3>
+                            <%= item.title %>
+                        </h3>
+                        <%- item.description %>
+                            <p class="feed-time">
+                                <%= item.pubDate %>
+                            </p>
+                            <a class="feed-link" href="<%= item.link %>">
+                                read more
+                            </a>
+                    </article>
+
+                    <% }) %>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>Copyright <a href="https://openjsf.org">OpenJS Foundation</a> and Node.js contributors. All rights reserved.
+            The <a href="https://openjsf.org">OpenJS Foundation</a> has registered trademarks and uses
+            trademarks. For a list of trademarks of the <a href="https://openjsf.org">OpenJS Foundation</a>,
+            please see our <a href="https://trademark-policy.openjsf.org">Trademark Policy</a> and <a
+                href="https://trademark-list.openjsf.org">Trademark List</a>. Trademarks and logos not indicated on
+            the <a href="https://trademark-list.openjsf.org">list of OpenJS Foundation trademarks</a>
+            are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply
+            any affiliation with or endorsement by them.</p>
+        <p class="openjsfoundation-footer-links"><a href="https://openjsf.org">The OpenJS Foundation</a>&nbsp;|&nbsp;<a
+                href="https://trademark-policy.openjsf.org">Trademark Policy</a>&nbsp;|&nbsp;<a
+                href="https://privacy-policy.openjsf.org">Privacy Policy</a>&nbsp;|&nbsp;<a
+                href="https://code-of-conduct.openjsf.org">Code of Conduct</a>&nbsp;|&nbsp;<a hreflang="en"
+                href="/en/about/security-reporting">Security Reporting</a>
+        </p>
+    </footer>
+
+
+
+</body>
+
+</html>
