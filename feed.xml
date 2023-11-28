@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 26 Nov 2023 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 09:56:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/undici v5.28.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.28.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Nov 2023 09:48:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.28.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.28.1</guid>
+    </item>
     <item>
       <title>Released nodejs/node v20.10.0</title>
       <description><![CDATA[<p>Released nodejs/node v20.10.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v20.10.0">More details</a></p>
