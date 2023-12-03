@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Tue, 28 Nov 2023 09:56:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v21.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node v21.3.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.3.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Nov 2023 17:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.3.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.19.0</title>
+      <description><![CDATA[<p>Released nodejs/node v18.19.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v18.19.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Nov 2023 17:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.19.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.19.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v4.2.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v4.2.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v4.2.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Nov 2023 09:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v4.2.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v4.2.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.28.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.28.2 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.2">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Nov 2023 15:41:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.28.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.28.2</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v5.28.1</title>
       <description><![CDATA[<p>Released nodejs/undici v5.28.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.1">More details</a></p>
