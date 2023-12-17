@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 10 Dec 2023 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Dec 2023 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/branch-diff v3.0.0</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.0.0 by rvagg. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.0.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 13 Dec 2023 04:22:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.0.0</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.0.0</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.0.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 12 Dec 2023 10:03:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.0.0</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v3.2.7</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v3.2.7 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v3.2.7">More details</a></p>
+]]></description>
+      <pubDate>Tue, 12 Dec 2023 09:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.7</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v3.2.7</guid>
+    </item>
+    <item>
+      <title>Released nodejs/uvwasi v0.0.20</title>
+      <description><![CDATA[<p>Released nodejs/uvwasi v0.0.20 by mhdawson. <a href="https://github.com/nodejs/uvwasi/releases/tag/v0.0.20">More details</a></p>
+]]></description>
+      <pubDate>Thu, 14 Dec 2023 17:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/releases/tag/v0.0.20</link>
+      <guid>https://github.com/nodejs/uvwasi/releases/tag/v0.0.20</guid>
+    </item>
     <item>
       <title>Released nodejs/caritat v1.3.0</title>
       <description><![CDATA[<p>Released nodejs/caritat v1.3.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.3.0">More details</a></p>
