@@ -8,12 +8,60 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 17 Dec 2023 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v21.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node v21.5.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.5.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 19 Dec 2023 19:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.5.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/readable-stream v4.5.1</title>
+      <description><![CDATA[<p>Released nodejs/readable-stream v4.5.1 by mcollina. <a href="https://github.com/nodejs/readable-stream/releases/tag/v4.5.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 18 Dec 2023 15:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/readable-stream/releases/tag/v4.5.1</link>
+      <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/readable-stream v4.5.0</title>
+      <description><![CDATA[<p>Released nodejs/readable-stream v4.5.0 by mcollina. <a href="https://github.com/nodejs/readable-stream/releases/tag/v4.5.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 18 Dec 2023 10:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</link>
+      <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.2.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.2.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.2.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 22 Dec 2023 09:36:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.2.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.2.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.2.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.2.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 20 Dec 2023 15:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.2.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.1.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.1.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.1.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 20 Dec 2023 14:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.1.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.1.0</guid>
+    </item>
     <item>
       <title>Released nodejs/branch-diff v3.0.0</title>
       <description><![CDATA[<p>Released nodejs/branch-diff v3.0.0 by rvagg. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.0.0">More details</a></p>
