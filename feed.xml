@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 07 Jan 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/changelog-maker v4.1.0</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.1.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Jan 2024 10:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.1.0</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.24.1</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.24.1 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.24.1">More details</a></p>
+]]></description>
+      <pubDate>Sat, 13 Jan 2024 09:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.24.1</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.24.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v6.1.0</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v6.1.0 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v6.1.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 09 Jan 2024 17:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v6.1.0</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v6.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.11.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.11.0 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v20.11.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Jan 2024 12:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.11.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.11.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.3.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.3.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.3.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Jan 2024 14:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.3.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.3.0</guid>
+    </item>
     <item>
       <title>Released nodejs/changelog-maker v4.0.1</title>
       <description><![CDATA[<p>Released nodejs/changelog-maker v4.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.0.1">More details</a></p>
