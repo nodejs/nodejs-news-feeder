@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 14 Jan 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Uvwasi team update on 2024-01-18 19:16:47</title>
+      <description><![CDATA[<p>Node.js main branch updated to include <a href="https://github.com/nodejs/uvwasi/releases/tag/v0.0.20">v0.0.20</a> version of uvwasi which includes some important changes to handling of relative paths - https://github.com/nodejs/node/pull/51355</p>
+]]></description>
+      <pubDate>Thu, 18 Jan 2024 19:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/issues/201#issuecomment-1899066165</link>
+      <guid>https://github.com/nodejs/uvwasi/issues/201#issuecomment-1899066165</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.6.0</title>
+      <description><![CDATA[<p>Released nodejs/node v21.6.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.6.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 15 Jan 2024 14:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.6.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v7.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v7.1.0 by legendecas. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 19 Jan 2024 08:53:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v7.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.4.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.4.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.4.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 19 Jan 2024 15:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.4.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.4.0</guid>
+    </item>
     <item>
       <title>Released nodejs/changelog-maker v4.1.0</title>
       <description><![CDATA[<p>Released nodejs/changelog-maker v4.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.1.0">More details</a></p>
