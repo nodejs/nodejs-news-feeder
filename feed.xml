@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 21 Jan 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-01-26 16:06:49</title>
+      <description><![CDATA[<p>New SemVer minor version of Node-API released last week, planning to do a SemVer major release to next week to drop support for Node.js 16.x</p>
+]]></description>
+      <pubDate>Fri, 26 Jan 2024 16:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1912308665</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/446#issuecomment-1912308665</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.6.1</title>
+      <description><![CDATA[<p>Released nodejs/node v21.6.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.6.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 22 Jan 2024 19:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.6.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.6.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.5.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.5.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.5.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 26 Jan 2024 15:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.5.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.5.0</guid>
+    </item>
     <item>
       <title>Uvwasi team update on 2024-01-18 19:16:47</title>
       <description><![CDATA[<p>Node.js main branch updated to include <a href="https://github.com/nodejs/uvwasi/releases/tag/v0.0.20">v0.0.20</a> version of uvwasi which includes some important changes to handling of relative paths - https://github.com/nodejs/node/pull/51355</p>
