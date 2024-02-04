@@ -8,12 +8,43 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 28 Jan 2024 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2023-11-19 to 2023-11-26</title>
+      <description><![CDATA[<p>Reporting on 43 Issues from 28 authors, 57 Pull Requests from 26 authors, and 11 Discussions from 11 authors.</p>]]></description>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-11-19.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-11-19.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.1</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.1 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 31 Jan 2024 20:53:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.1</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.0</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.0 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 31 Jan 2024 20:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.0</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.6.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.6.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.6.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 01 Feb 2024 09:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.6.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.6.0</guid>
+    </item>
     <item>
       <title>Node-API and node-addon-api teams update on 2024-01-26 16:06:49</title>
       <description><![CDATA[<p>New SemVer minor version of Node-API released last week, planning to do a SemVer major release to next week to drop support for Node.js 16.x</p>
