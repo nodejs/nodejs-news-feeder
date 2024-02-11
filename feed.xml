@@ -8,12 +8,75 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 04 Feb 2024 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2023-11-26 to 2023-12-03</title>
+      <description><![CDATA[<p>Reporting on 36 Issues from 20 authors, 64 Pull Requests from 23 authors, and 10 Discussions from 9 authors.</p>]]></description>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-11-26.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-11-26.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.0.4</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.0.4 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.0.4">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Feb 2024 13:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.0.4</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.0.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.1.1</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.1.1 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.1.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Feb 2024 13:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.1.1</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v9.2.0</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.2.0 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Feb 2024 13:22:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.2.0</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.2</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.2 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Feb 2024 16:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.2</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.6.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.6.2 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.6.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Feb 2024 14:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.6.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.6.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.6.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.6.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.6.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 05 Feb 2024 11:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.6.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.6.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v5.28.3</title>
+      <description><![CDATA[<p>Released nodejs/undici v5.28.3 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v5.28.3">More details</a></p>
+]]></description>
+      <pubDate>Mon, 05 Feb 2024 11:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v5.28.3</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v5.28.3</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-11-19 to 2023-11-26</title>
       <description><![CDATA[<p>Reporting on 43 Issues from 28 authors, 57 Pull Requests from 26 authors, and 11 Discussions from 11 authors.</p>]]></description>
