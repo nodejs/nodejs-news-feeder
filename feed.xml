@@ -8,12 +8,91 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 03 Mar 2024 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 00:08:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2023-12-24 to 2023-12-31</title>
+      <description><![CDATA[<p>Reporting on 51 Issues from 15 authors, 49 Pull Requests from 28 authors, and 6 Discussions from 6 authors.</p>]]></description>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-12-24.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-12-24.md</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-03-08 16:08:39</title>
+      <description><![CDATA[<p>node-addon-api <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.0.0">v8.0.0</a> released this week.</p>
+]]></description>
+      <pubDate>Fri, 08 Mar 2024 16:08:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-1985967230</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-1985967230</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.26.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.26.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.26.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 08 Mar 2024 10:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.26.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.26.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.16.2</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.16.2 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.16.2">More details</a></p>
+]]></description>
+      <pubDate>Thu, 07 Mar 2024 14:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.16.2</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.16.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.7.1</title>
+      <description><![CDATA[<p>Released nodejs/node v21.7.1 by targos. <a href="https://github.com/nodejs/node/releases/tag/v21.7.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 08 Mar 2024 22:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.7.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.7.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v21.7.0</title>
+      <description><![CDATA[<p>Released nodejs/node v21.7.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v21.7.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 06 Mar 2024 18:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v21.7.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v21.7.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v8.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.0.0 by legendecas. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.0.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 05 Mar 2024 07:03:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.0.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v4.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v4.3.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v4.3.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 05 Mar 2024 14:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v4.3.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v4.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.7.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.7.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.7.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 08 Mar 2024 08:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.7.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.7.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.7.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.7.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.7.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 03 Mar 2024 17:08:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.7.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.7.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-12-17 to 2023-12-24</title>
       <description><![CDATA[<p>Reporting on 49 Issues from 24 authors, 51 Pull Requests from 30 authors, and 9 Discussions from 8 authors.</p>]]></description>
