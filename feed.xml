@@ -8,12 +8,43 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 10 Mar 2024 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2023-12-31 to 2024-01-07</title>
+      <description><![CDATA[<p>Reporting on 52 Issues from 30 authors, 48 Pull Requests from 30 authors, and 7 Discussions from 7 authors.</p>]]></description>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-12-31.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2023-12-31.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.10.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.10.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.10.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 21 Mar 2024 11:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.10.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.10.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.9.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.9.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.9.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 14 Mar 2024 17:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.9.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.9.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.8.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.8.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.8.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 13 Mar 2024 08:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.8.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.8.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-12-24 to 2023-12-31</title>
       <description><![CDATA[<p>Reporting on 51 Issues from 15 authors, 49 Pull Requests from 28 authors, and 6 Discussions from 6 authors.</p>]]></description>
