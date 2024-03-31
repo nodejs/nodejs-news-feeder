@@ -8,12 +8,59 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 24 Mar 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 20:04:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-01-07 to 2024-01-14</title>
+      <description><![CDATA[<p>Reporting on 66 Issues from 23 authors, 34 Pull Requests from 18 authors, and 8 Discussions from 8 authors.</p>]]></description>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-01-07.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-01-07.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.12.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.12.0 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v20.12.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 26 Mar 2024 18:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.12.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.12.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.20.0</title>
+      <description><![CDATA[<p>Released nodejs/node v18.20.0 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v18.20.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 26 Mar 2024 18:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.20.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.20.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v10.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v10.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-gyp/releases/tag/v10.1.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 25 Mar 2024 18:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v10.1.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v10.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.10.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.10.2 by ronag. <a href="https://github.com/nodejs/undici/releases/tag/v6.10.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 27 Mar 2024 09:36:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.10.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.10.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.10.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.10.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.10.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 27 Mar 2024 09:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.10.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.10.1</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2023-12-31 to 2024-01-07</title>
       <description><![CDATA[<p>Reporting on 52 Issues from 30 authors, 48 Pull Requests from 30 authors, and 7 Discussions from 7 authors.</p>]]></description>
