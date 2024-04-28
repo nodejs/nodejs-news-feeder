@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 14 Apr 2024 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
@@ -20,6 +20,57 @@
       <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
       <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-01-21.md</link>
       <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-01-21.md</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-04-19 15:50:06</title>
+      <description><![CDATA[<p><a href="https://github.com/facebook/hermes">Hermes</a> team <a href="https://x.com/tmikov/status/1773848584464830789">tentatively decided</a> to add support for Node-API to a future version of Static Hermes JavaScript engine.
+See the related <a href="https://github.com/facebook/hermes/discussions/1074">discussion</a> and the initial <a href="https://github.com/facebook/hermes/pull/1377">PR</a>.
+<a href="https://nativescript.org/">NativeScript</a> team <a href="https://x.com/birch_js/status/1773933927784501754">considers</a> using it to integrate with <a href="https://reactnative.dev/">React Native</a>.</p>
+]]></description>
+      <pubDate>Fri, 19 Apr 2024 15:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2066847415</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2066847415</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-04-20 01:20:21</title>
+      <description><![CDATA[<blockquote>
+<p><a href="https://nativescript.org/">NativeScript</a> team <a href="https://x.com/birch_js/status/1773933927784501754">considers</a> using it to integrate with <a href="https://reactnative.dev/">React Native</a>.</p>
+</blockquote>
+<p>I gave several demos of this integration for React Native on iOS, on Twitter:</p>
+<ul>
+<li>Four examples of <a href="https://x.com/birch_js/status/1773401773266604240">accessing non-UI-thread functionality from the iOS SDK</a>, as presented in the React Native Japan meetup.</li>
+<li>A proof-of-concept of <a href="https://x.com/birch_js/status/1774855694271045666">accessing the UI thread</a> to show a UIKit alert.</li>
+<li><a href="https://x.com/birch_js/status/1775196296560963878">Creating a virtual list</a> using UIKit.</li>
+<li><a href="https://x.com/birch_js/status/1776250874362470474">Tokenising Japanese text</a> by calling <code>Intl.Segmenter</code> on JavaScriptCore from Hermes.</li>
+</ul>
+]]></description>
+      <pubDate>Sat, 20 Apr 2024 01:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2067498916</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2067498916</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.28.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.28.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.28.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 20 Apr 2024 19:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.28.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.28.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.27.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.27.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.27.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 19 Apr 2024 08:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.27.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.27.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.0.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.0.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 24 Apr 2024 18:25:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.0.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.0.0</guid>
     </item>
     <item>
       <title>Released nodejs/node v21.7.3</title>
@@ -44,6 +95,54 @@
       <pubDate>Wed, 10 Apr 2024 16:34:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v18.20.2</link>
       <guid>https://github.com/nodejs/node/releases/tag/v18.20.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.0.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.0.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 24 Apr 2024 21:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.0.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.0.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 24 Apr 2024 19:25:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.0.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/remark-preset-lint-node v5.0.2</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.0.2 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.2">More details</a></p>
+]]></description>
+      <pubDate>Thu, 18 Apr 2024 16:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.2</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/remark-preset-lint-node v5.0.1</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 18 Apr 2024 15:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.14.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.14.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.14.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 23 Apr 2024 10:37:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.14.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.14.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.14.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.14.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.14.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 22 Apr 2024 15:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.14.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.14.0</guid>
     </item>
     <item>
       <title>Released nodejs/undici v6.13.0</title>
