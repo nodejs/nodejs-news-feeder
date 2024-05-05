@@ -22,14 +22,6 @@
       <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-01-28.md</guid>
     </item>
     <item>
-      <title>Security WG update on 2024-05-01 15:39:09</title>
-      <description><![CDATA[<p>We are not using it actively, so I'm unpinning this issue and closing as "won't fix"</p>
-]]></description>
-      <pubDate>Wed, 01 May 2024 15:39:00 GMT</pubDate>
-      <link>https://github.com/nodejs/security-wg/issues/1006#issuecomment-2088649970</link>
-      <guid>https://github.com/nodejs/security-wg/issues/1006#issuecomment-2088649970</guid>
-    </item>
-    <item>
       <title>Released nodejs/caritat v1.3.1</title>
       <description><![CDATA[<p>Released nodejs/caritat v1.3.1 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.3.1">More details</a></p>
 ]]></description>
