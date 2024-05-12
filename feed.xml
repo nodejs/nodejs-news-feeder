@@ -8,12 +8,75 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 05 May 2024 00:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-02-04 to 2024-02-11</title>
+      <description><![CDATA[<p>Reporting on 34 Issues from 30 authors, 66 Pull Requests from 30 authors, and 5 Discussions from 5 authors.</p>]]></description>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-02-04.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-02-04.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.28.1</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.28.1 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.28.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 10 May 2024 08:36:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.28.1</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.28.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.18.0</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.18.0 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.18.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 08 May 2024 13:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.18.0</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.18.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.13.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.13.1 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.13.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 09 May 2024 10:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.13.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.13.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.13.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.13.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.13.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 07 May 2024 15:53:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.13.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.13.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.0.2</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.0.2 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.0.2">More details</a></p>
+]]></description>
+      <pubDate>Sat, 11 May 2024 16:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.0.2</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.0.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.16.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.16.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.16.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 10 May 2024 09:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.16.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.16.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.16.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.16.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.16.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 07 May 2024 16:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.16.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.16.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-01-28 to 2024-02-04</title>
       <description><![CDATA[<p>Reporting on 31 Issues from 17 authors, 69 Pull Requests from 23 authors, and 8 Discussions from 8 authors.</p>]]></description>
