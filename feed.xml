@@ -8,12 +8,35 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 12 May 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-02-11 to 2024-02-18</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 25 authors, 60 Pull Requests from 27 authors, and 10 Discussions from 10 authors.</p>]]></description>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-02-11.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-02-11.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.2.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v22.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 May 2024 19:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.2.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.17.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.17.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.17.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 17 May 2024 06:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.17.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.17.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-02-04 to 2024-02-11</title>
       <description><![CDATA[<p>Reporting on 34 Issues from 30 authors, 66 Pull Requests from 30 authors, and 5 Discussions from 5 authors.</p>]]></description>
