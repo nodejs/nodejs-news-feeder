@@ -8,12 +8,35 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Jun 2024 15:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 00:10:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-02-25 to 2024-03-03</title>
+      <description><![CDATA[<p>Reporting on 34 Issues from 20 authors, 66 Pull Requests from 23 authors, and 6 Discussions from 6 authors.</p>]]></description>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-02-25.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-02-25.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v1.5.0</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.5.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.5.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Jun 2024 21:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.5.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v1.4.1</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.4.1 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.4.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 06 Jun 2024 23:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.4.1</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.4.1</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-02-18 to 2024-02-25</title>
       <description><![CDATA[<p>Reporting on 49 Issues from 25 authors, 51 Pull Requests from 27 authors, and 8 Discussions from 8 authors.</p>]]></description>
