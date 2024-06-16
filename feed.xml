@@ -8,12 +8,51 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 09 Jun 2024 00:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 11:54:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-03-03 to 2024-03-10</title>
+      <description><![CDATA[<p>Reporting on 35 Issues from 21 authors, 65 Pull Requests from 26 authors, and 8 Discussions from 8 authors.</p>]]></description>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-03.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-03.md</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-06-14 04:53:48</title>
+      <description><![CDATA[<p>Today I successfully used <a href="https://github.com/kabiroberai/node-swift/tree/main">node-swift</a> to call native macOS APIs via Swift from the Node.js process of an Electron project. It's missing from the <a href="https://github.com/nodejs/abi-stable-node/blob/doc/node-api-engine-bindings.md">node-api-engine-bindings.md</a> documentation, but it seems more recent and more comprehensive than the currently listed <a href="https://github.com/LinusU/swift-napi-bindings">swift-napi-bindings</a>.</p>
+]]></description>
+      <pubDate>Fri, 14 Jun 2024 04:53:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2167208668</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2167208668</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.3.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.3.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 11 Jun 2024 19:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.3.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.2.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 14 Jun 2024 13:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.2.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.19.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 14 Jun 2024 09:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-02-25 to 2024-03-03</title>
       <description><![CDATA[<p>Reporting on 34 Issues from 20 authors, 66 Pull Requests from 23 authors, and 6 Discussions from 6 authors.</p>]]></description>
