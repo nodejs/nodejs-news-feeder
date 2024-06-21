@@ -33,7 +33,7 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "node": ">=20.0.0",
+    "node": ">=22.0.0",
     "npm": ">=9.6.4"
   },
   "bugs": {
