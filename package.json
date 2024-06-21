@@ -17,14 +17,9 @@
     "website:build": "node scripts/build-website.js",
     "lint": "standard",
     "lint:fix": "standard --fix",
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose",
-    "test:coverage": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose --coverage",
-    "test:watch": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --forceExit --verbose --watchAll"
-  },
-  "standard": {
-    "env": [
-      "jest"
-    ]
+    "test": "node --test",
+    "test:coverage": "node --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=lcov.info",
+    "test:watch": "node --test --watch"
   },
   "repository": {
     "type": "git",
@@ -41,7 +36,6 @@
   },
   "homepage": "https://github.com/nodejs/nodejs-news-feeder#readme",
   "devDependencies": {
-    "jest": "29.5.0",
     "standard": "17.1.0"
   },
   "dependencies": {
