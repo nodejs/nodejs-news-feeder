@@ -18,7 +18,7 @@
     "lint": "standard",
     "lint:fix": "standard --fix",
     "test": "node --test",
-    "test:coverage": "node --test --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=lcov.info",
+    "test:coverage": "node --test --test-reporter=lcov --test-reporter-destination=lcov.info",
     "test:watch": "node --test --watch"
   },
   "repository": {
