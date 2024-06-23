@@ -17,9 +17,9 @@
     "website:build": "node scripts/build-website.js",
     "lint": "standard",
     "lint:fix": "standard --fix",
-    "test": "node --test",
-    "test:coverage": "node --test --test-reporter=lcov --test-reporter-destination=lcov.info",
-    "test:watch": "node --test --watch"
+    "test": "env TZ='Europe/Amsterdam' node --test",
+    "test:coverage": "env TZ='Europe/Amsterdam' node --test --test-reporter=lcov --test-reporter-destination=lcov.info",
+    "test:watch": "env TZ='Europe/Amsterdam' node --test --watch"
   },
   "repository": {
     "type": "git",
@@ -28,8 +28,8 @@
   "author": "",
   "license": "MIT",
   "engines": {
-    "node": ">=18.0.0",
-    "npm": ">=9.0.0"
+    "node": ">=22.0.0",
+    "npm": ">=9.6.4"
   },
   "bugs": {
     "url": "https://github.com/nodejs/nodejs-news-feeder/issues"
