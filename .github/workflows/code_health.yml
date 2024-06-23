@@ -25,7 +25,7 @@ jobs:
       run: npm run lint
 
     - name: Test
-      run: npm run rss:build
+      run: npm run test
 
     - name: RSS Build
       run: npm run rss:build
