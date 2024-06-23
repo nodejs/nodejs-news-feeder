@@ -73,6 +73,7 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
+lcov.info
 *.lcov
 
 # nyc test coverage
