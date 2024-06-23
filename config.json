@@ -1,11 +1,11 @@
 {
-  "lastCheckTimestamp": 1718538853770,
+  "lastCheckTimestamp": 1719101370434,
   "reposPaginationLimit": 250,
   "releasePaginationLimit": 10,
   "commentsPaginationLimit": 100,
   "retrospective": {
-    "lastDay": "2024-03-03",
-    "nextDay": "2024-03-10"
+    "lastDay": "2024-03-10",
+    "nextDay": "2024-03-17"
   },
   "breakDelimiter": "</image>",
   "discussionsInScope": [
