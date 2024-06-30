@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 23 Jun 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-03-17 to 2024-03-24</title>
+      <description><![CDATA[<p>Reporting on 53 Issues from 27 authors, 47 Pull Requests from 32 authors, and 10 Discussions from 8 authors.</p>]]></description>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-17.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-17.md</guid>
+    </item>
+    <item>
+      <title>Node-API and node-addon-api teams update on 2024-06-28 08:31:04</title>
+      <description><![CDATA[<p><a href="https://www.swig.org/">SWIG</a>  starting from version <code>4.2.0</code> introduced generator generator targeting Node.js binary stable ABI Node-API.
+Here an example of a module that uses it https://github.com/mmomtchev/magickwand.js</p>
+]]></description>
+      <pubDate>Fri, 28 Jun 2024 08:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2196405911</link>
+      <guid>https://github.com/nodejs/abi-stable-node/issues/459#issuecomment-2196405911</guid>
+    </item>
+    <item>
+      <title>Released nodejs/caritat v1.6.0</title>
+      <description><![CDATA[<p>Released nodejs/caritat v1.6.0 by github-actions[bot]. <a href="https://github.com/nodejs/caritat/releases/tag/v1.6.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 26 Jun 2024 18:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/caritat/releases/tag/v1.6.0</link>
+      <guid>https://github.com/nodejs/caritat/releases/tag/v1.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.3.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.3.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 24 Jun 2024 16:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.3.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.3.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-03-10 to 2024-03-17</title>
       <description><![CDATA[<p>Reporting on 36 Issues from 23 authors, 64 Pull Requests from 37 authors, and 11 Discussions from 10 authors.</p>]]></description>
