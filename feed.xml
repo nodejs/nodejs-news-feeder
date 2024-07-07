@@ -8,12 +8,35 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 30 Jun 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-03-24 to 2024-03-31</title>
+      <description><![CDATA[<p>Reporting on 49 Issues from 24 authors, 51 Pull Requests from 28 authors, and 15 Discussions from 14 authors.</p>]]></description>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-24.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-24.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.4.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v22.4.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 02 Jul 2024 09:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.4.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.4.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.3.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.3.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.3.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 03 Jul 2024 07:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.3.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.3.1</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-03-17 to 2024-03-24</title>
       <description><![CDATA[<p>Reporting on 53 Issues from 27 authors, 47 Pull Requests from 32 authors, and 10 Discussions from 8 authors.</p>]]></description>
