@@ -8,12 +8,131 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 07 Jul 2024 00:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 00:09:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Retrospective for nodejs from 2024-03-31 to 2024-04-07</title>
+      <description><![CDATA[<p>Reporting on 39 Issues from 25 authors, 61 Pull Requests from 35 authors, and 15 Discussions from 15 authors.</p>]]></description>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-31.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-03-31.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.0.5</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.0.5 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.0.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Jul 2024 14:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.0.5</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.0.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.29.2</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.29.2 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.29.2">More details</a></p>
+]]></description>
+      <pubDate>Sat, 13 Jul 2024 09:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.29.2</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.29.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.29.1</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.29.1 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.29.1">More details</a></p>
+]]></description>
+      <pubDate>Sat, 13 Jul 2024 08:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.29.1</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.29.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.29.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.29.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.29.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 12 Jul 2024 22:30:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.29.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.29.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.9.0 by legendecas. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Jul 2024 18:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.9.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nbytes v0.1.0</title>
+      <description><![CDATA[<p>Released nodejs/nbytes v0.1.0 by anonrig. <a href="https://github.com/nodejs/nbytes/releases/tag/v0.1.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 09 Jul 2024 19:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</link>
+      <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.4.1</title>
+      <description><![CDATA[<p>Released nodejs/node v22.4.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.4.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Jul 2024 18:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.4.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.4.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.15.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.15.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.15.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Jul 2024 18:27:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.15.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.15.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v18.20.4</title>
+      <description><![CDATA[<p>Released nodejs/node v18.20.4 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v18.20.4">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Jul 2024 18:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v18.20.4</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v18.20.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api node-addon-api-v8.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api node-addon-api-v8.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/node-addon-api-v8.1.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Jul 2024 08:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/node-addon-api-v8.1.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/node-addon-api-v8.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-api-headers v1.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-api-headers v1.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 09 Jul 2024 21:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0</link>
+      <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v10.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v10.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-gyp/releases/tag/v10.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Jul 2024 12:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v10.2.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v10.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.3</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.3 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.3">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Jul 2024 02:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.3</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/remark-preset-lint-node v5.1.0</title>
+      <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 09 Jul 2024 07:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.0</link>
+      <guid>https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.1.0</guid>
+    </item>
     <item>
       <title>Retrospective for nodejs from 2024-03-24 to 2024-03-31</title>
       <description><![CDATA[<p>Reporting on 49 Issues from 24 authors, 51 Pull Requests from 28 authors, and 15 Discussions from 14 authors.</p>]]></description>
