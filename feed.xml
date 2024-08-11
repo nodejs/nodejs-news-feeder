@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 04 Aug 2024 00:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 00:10:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
@@ -28,6 +28,46 @@
       <pubDate>Tue, 30 Jul 2024 13:41:00 GMT</pubDate>
       <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.0</link>
       <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nbytes v0.1.1</title>
+      <description><![CDATA[<p>Released nodejs/nbytes v0.1.1 by anonrig. <a href="https://github.com/nodejs/nbytes/releases/tag/v0.1.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 08 Aug 2024 16:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.1</link>
+      <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.6.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.6.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.6.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 06 Aug 2024 18:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.6.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.4.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 07 Aug 2024 19:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.4.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.4.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.19.7</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.7 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.7">More details</a></p>
+]]></description>
+      <pubDate>Fri, 09 Aug 2024 15:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.7</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.7</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.19.6</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.19.6 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.19.6">More details</a></p>
+]]></description>
+      <pubDate>Fri, 09 Aug 2024 08:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.19.6</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.19.6</guid>
     </item>
     <item>
       <title>Released nodejs/undici v6.19.5</title>
