@@ -4,7 +4,7 @@ import {
   composeFeedItem,
   getConfig,
   getFeedContent,
-  overwriteFeedContent,
+  overwriteFeedContent
 } from '../utils/index.js'
 
 const { breakDelimiter } = getConfig()
@@ -24,8 +24,8 @@ parser.parseString(xml).then((parsedXml) => {
 
   const formattedXml = xmlFormat(updatedFeedContent, {
     indentation: '  ',
-    collapseContent: true,
+    collapseContent: true
   })
 
-  overwriteFeedContent(updatedXml)
+  overwriteFeedContent(formattedXml)
 })
