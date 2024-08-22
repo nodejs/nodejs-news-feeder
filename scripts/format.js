@@ -15,12 +15,11 @@ const xml = getFeedContent()
 
 parser.parseString(xml).then((parsedXml) => {
   const sortedItems = parsedXml.items
-    .sort((a, b) => (new Date(a.isoDate) < new Date(b.isoDate) ? 1 : -1))
+    .sort((a, b) => new Date(a.isoDate) - new Date(b.isoDate))
     .map(composeFeedItem)
     .join('')
 
-  const feedContent = getFeedContent()
-  const [before] = feedContent.split(breakDelimiter)
+  const [before] = xml.split(breakDelimiter)
   const updatedFeedContent = `${before}${breakDelimiter}${sortedItems}</channel></rss>`
 
   const formattedXml = xmlFormat(updatedFeedContent, {
