@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Thu, 22 Aug 2024 20:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 00:10:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/amaro v0.1.8</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.1.8 by marco-ippolito. <a href="https://github.com/nodejs/amaro/releases/tag/v0.1.8">More details</a></p>
+]]></description>
+      <pubDate>Fri, 23 Aug 2024 10:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.1.8</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.1.8</guid>
+    </item>
     <item>
       <title>Released nodejs/node v22.7.0</title>
       <description><![CDATA[<p>Released nodejs/node v22.7.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.7.0">More details</a></p>
@@ -562,6 +570,13 @@ Here an example of a module that uses it https://github.com/mmomtchev/magickwand
       <pubDate>Mon, 29 Apr 2024 12:07:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v6.15.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v6.15.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2024-04-28 to 2024-05-05</title>
+      <description><![CDATA[<p>Reporting on 44 Issues from 25 authors, 56 Pull Requests from 29 authors, and 12 Discussions from 11 authors.</p>]]></description>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-04-28.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-04-28.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.0.1</title>
