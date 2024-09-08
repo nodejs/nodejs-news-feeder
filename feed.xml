@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 01 Sep 2024 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 00:10:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/corepack v0.29.4</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.29.4 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.29.4">More details</a></p>
+]]></description>
+      <pubDate>Sat, 07 Sep 2024 11:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.29.4</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.29.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-api-headers v1.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node-api-headers v1.3.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.3.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 06 Sep 2024 08:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.3.0</link>
+      <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.8.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.8.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 03 Sep 2024 13:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.8.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.5.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.5.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 02 Sep 2024 15:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.5.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.5.0</guid>
+    </item>
     <item>
       <title>Released nodejs/amaro v0.1.8</title>
       <description><![CDATA[<p>Released nodejs/amaro v0.1.8 by marco-ippolito. <a href="https://github.com/nodejs/amaro/releases/tag/v0.1.8">More details</a></p>
@@ -535,6 +567,13 @@ Here an example of a module that uses it https://github.com/mmomtchev/magickwand
       <pubDate>Tue, 07 May 2024 15:53:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v20.13.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v20.13.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2024-05-05 to 2024-05-12</title>
+      <description><![CDATA[<p>Reporting on 52 Issues from 24 authors, 48 Pull Requests from 25 authors, and 6 Discussions from 6 authors.</p>]]></description>
+      <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-05-05.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2024-05-05.md</guid>
     </item>
     <item>
       <title>Released nodejs/uvwasi v0.0.21</title>
