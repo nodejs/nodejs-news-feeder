@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 29 Sep 2024 15:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v20.18.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.18.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v20.18.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 03 Oct 2024 18:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.18.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.18.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v8.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 30 Sep 2024 14:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.2</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.2 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 30 Sep 2024 14:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2</guid>
+    </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1">More details</a></p>
