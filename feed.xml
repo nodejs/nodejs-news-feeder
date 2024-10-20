@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 13 Oct 2024 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/gyp-next v0.18.3</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.18.3 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.18.3">More details</a></p>
+]]></description>
+      <pubDate>Fri, 18 Oct 2024 13:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.18.3</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.18.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.10.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.10.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.10.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 16 Oct 2024 22:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.10.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.10.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v23.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.0.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v23.0.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 16 Oct 2024 15:42:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.0.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.0.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node-addon-api v8.2.1</title>
       <description><![CDATA[<p>Released nodejs/node-addon-api v8.2.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.2.1">More details</a></p>
