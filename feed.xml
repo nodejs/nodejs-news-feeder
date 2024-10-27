@@ -8,12 +8,68 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 20 Oct 2024 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.9</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.9 by nodejs-github-bot. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.9">More details</a></p>
+]]></description>
+      <pubDate>Fri, 25 Oct 2024 20:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.9</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.9</guid>
+    </item>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.8</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.8 by nodejs-github-bot. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.8">More details</a></p>
+]]></description>
+      <pubDate>Fri, 25 Oct 2024 16:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.8</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.8</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.5</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.5 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.5">More details</a></p>
+]]></description>
+      <pubDate>Fri, 25 Oct 2024 01:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.5</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v23.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.1.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v23.1.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 24 Oct 2024 21:30:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.1.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.0.0-alpha.3</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.0.0-alpha.3 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.3">More details</a></p>
+]]></description>
+      <pubDate>Thu, 24 Oct 2024 11:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.3</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.20.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.20.1 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.20.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 23 Oct 2024 16:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.20.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.20.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.4</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.4 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.4">More details</a></p>
+]]></description>
+      <pubDate>Wed, 23 Oct 2024 02:42:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.4</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.4</guid>
+    </item>
     <item>
       <title>Released nodejs/gyp-next v0.18.3</title>
       <description><![CDATA[<p>Released nodejs/gyp-next v0.18.3 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.18.3">More details</a></p>
@@ -95,6 +151,14 @@
       <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.2</guid>
     </item>
     <item>
+      <title>Released nodejs/wasm-builder v0.0.7</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.7 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.7">More details</a></p>
+]]></description>
+      <pubDate>Thu, 26 Sep 2024 23:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.7</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.7</guid>
+    </item>
+    <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.11.1 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1">More details</a></p>
 ]]></description>
@@ -103,12 +167,60 @@
       <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.11.1</guid>
     </item>
     <item>
+      <title>Released nodejs/wasm-builder v0.0.6</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.6 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.6">More details</a></p>
+]]></description>
+      <pubDate>Thu, 26 Sep 2024 17:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.6</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.6</guid>
+    </item>
+    <item>
       <title>Released nodejs/node-core-utils v5.5.1</title>
       <description><![CDATA[<p>Released nodejs/node-core-utils v5.5.1 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.5.1">More details</a></p>
 ]]></description>
       <pubDate>Thu, 26 Sep 2024 16:12:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.5.1</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.5.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.5</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.5 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 25 Sep 2024 21:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.5</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.4</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.4 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.4">More details</a></p>
+]]></description>
+      <pubDate>Wed, 25 Sep 2024 18:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.4</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.3</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.3 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.3">More details</a></p>
+]]></description>
+      <pubDate>Wed, 25 Sep 2024 17:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.3</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.2</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.2 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 25 Sep 2024 17:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.2</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/wasm-builder v0.0.1</title>
+      <description><![CDATA[<p>Released nodejs/wasm-builder v0.0.1 by mhdawson. <a href="https://github.com/nodejs/wasm-builder/releases/tag/v0.0.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 24 Sep 2024 22:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.1</link>
+      <guid>https://github.com/nodejs/wasm-builder/releases/tag/v0.0.1</guid>
     </item>
     <item>
       <title>Released nodejs/gyp-next v0.18.2</title>
