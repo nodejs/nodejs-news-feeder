@@ -8,12 +8,68 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 17 Nov 2024 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/corepack v0.30.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.30.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.30.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 23 Nov 2024 12:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.30.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.30.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v23.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.3.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v23.3.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 20 Nov 2024 23:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.3.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.18.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.18.1 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.18.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 20 Nov 2024 14:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.18.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.18.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.0.0-alpha.6</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.0.0-alpha.6 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.6">More details</a></p>
+]]></description>
+      <pubDate>Wed, 20 Nov 2024 09:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.6</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.6</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.7.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.7.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.7.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 19 Nov 2024 18:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.7.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.7.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.0.0-alpha.5</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.0.0-alpha.5 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.5">More details</a></p>
+]]></description>
+      <pubDate>Tue, 19 Nov 2024 09:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.5</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.0.0-alpha.4</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.0.0-alpha.4 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.4">More details</a></p>
+]]></description>
+      <pubDate>Tue, 19 Nov 2024 09:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.4</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.0.0-alpha.4</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v6.21.0</title>
       <description><![CDATA[<p>Released nodejs/undici v6.21.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.21.0">More details</a></p>
