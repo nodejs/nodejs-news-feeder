@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 15 Dec 2024 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v23.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.5.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v23.5.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 19 Dec 2024 18:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.5.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/readable-stream v4.6.0</title>
+      <description><![CDATA[<p>Released nodejs/readable-stream v4.6.0 by mcollina. <a href="https://github.com/nodejs/readable-stream/releases/tag/v4.6.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 19 Dec 2024 08:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/readable-stream/releases/tag/v4.6.0</link>
+      <guid>https://github.com/nodejs/readable-stream/releases/tag/v4.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.2.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 18 Dec 2024 18:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.2.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.12.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.12.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.12.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 17 Dec 2024 10:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.12.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.12.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.1.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.1.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.1.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 16 Dec 2024 17:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.1.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.1.1</guid>
+    </item>
     <item>
       <title>Released nodejs/gyp-next v0.19.1</title>
       <description><![CDATA[<p>Released nodejs/gyp-next v0.19.1 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.19.1">More details</a></p>
