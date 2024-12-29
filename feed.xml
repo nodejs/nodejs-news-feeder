@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 22 Dec 2024 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
@@ -319,6 +319,22 @@
       <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.2.2</guid>
     </item>
     <item>
+      <title>Released nodejs/is-my-node-vulnerable v1.6.1</title>
+      <description><![CDATA[<p>Released nodejs/is-my-node-vulnerable v1.6.1 by RafaelGSS. <a href="https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.6.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 04 Nov 2024 21:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.6.1</link>
+      <guid>https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.6.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/is-my-node-vulnerable v1.6.0</title>
+      <description><![CDATA[<p>Released nodejs/is-my-node-vulnerable v1.6.0 by RafaelGSS. <a href="https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.6.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 01 Nov 2024 16:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.6.0</link>
+      <guid>https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.6.0</guid>
+    </item>
+    <item>
       <title>Released nodejs/node-api-headers v1.4.0</title>
       <description><![CDATA[<p>Released nodejs/node-api-headers v1.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.4.0">More details</a></p>
 ]]></description>
@@ -573,6 +589,14 @@
       <pubDate>Tue, 17 Sep 2024 21:07:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v22.9.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v22.9.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/is-my-node-vulnerable v1.5.0</title>
+      <description><![CDATA[<p>Released nodejs/is-my-node-vulnerable v1.5.0 by RafaelGSS. <a href="https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.5.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 17 Sep 2024 03:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.5.0</link>
+      <guid>https://github.com/nodejs/is-my-node-vulnerable/releases/tag/v1.5.0</guid>
     </item>
     <item>
       <title>Node-API and node-addon-api teams update on 2024-09-13 20:42:16</title>
