@@ -8,12 +8,99 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 26 Jan 2025 11:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 08:35:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/cjs-module-lexer 2.0.0</title>
+      <description><![CDATA[<p>Released nodejs/cjs-module-lexer 2.0.0 by mhdawson. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/2.0.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 31 Jan 2025 17:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.0.0</link>
+      <guid>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.9</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.9 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.9">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jan 2025 23:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.9</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.9</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v23.7.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.7.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v23.7.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jan 2025 18:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.7.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.7.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/cjs-module-lexer 1.4.2</title>
+      <description><![CDATA[<p>Released nodejs/cjs-module-lexer 1.4.2 by mhdawson. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/1.4.2">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jan 2025 16:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/cjs-module-lexer/releases/tag/1.4.2</link>
+      <guid>https://github.com/nodejs/cjs-module-lexer/releases/tag/1.4.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.11.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.11.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.11.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jan 2025 07:29:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.11.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.11.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.8</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.8 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.8">More details</a></p>
+]]></description>
+      <pubDate>Tue, 28 Jan 2025 23:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.8</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.8</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.7</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.7 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.7">More details</a></p>
+]]></description>
+      <pubDate>Tue, 28 Jan 2025 00:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.7</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.7</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.31.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.31.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.31.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Jan 2025 22:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.31.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.31.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.3.3</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.3.3 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.3.3">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Jan 2025 15:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.3.3</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.3.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.3.1</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.3.1 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v0.3.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Jan 2025 13:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.3.1</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.3.1</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-01-26 to 2025-02-02</title>
+      <description><![CDATA[<p>Reporting on 29 Issues from 12 authors, 71 Pull Requests from 21 authors, and 11 Discussions from 11 authors.</p>]]></description>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-01-26.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-01-26.md</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.3.0</title>
       <description><![CDATA[<p>Released nodejs/undici v7.3.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.3.0">More details</a></p>
