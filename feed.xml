@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Feb 2025 08:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Feb 2025 08:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.1</title>
+      <description><![CDATA[<p>Released nodejs/require-in-the-middle require-in-the-middle-v7.5.1 by nodejs-github-bot. <a href="https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Feb 2025 08:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.1</link>
+      <guid>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v7.5.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.3.2</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.3.2 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v0.3.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 04 Feb 2025 17:11:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.3.2</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.3.2</guid>
+    </item>
     <item>
       <title>Released nodejs/cjs-module-lexer 2.0.0</title>
       <description><![CDATA[<p>Released nodejs/cjs-module-lexer 2.0.0 by mhdawson. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/2.0.0">More details</a></p>
