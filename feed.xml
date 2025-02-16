@@ -8,12 +8,60 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 09 Feb 2025 00:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/ncrypto 1.0.1</title>
+      <description><![CDATA[<p>Released nodejs/ncrypto 1.0.1 by jasnell. <a href="https://github.com/nodejs/ncrypto/releases/tag/1.0.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 14 Feb 2025 20:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/ncrypto/releases/tag/1.0.1</link>
+      <guid>https://github.com/nodejs/ncrypto/releases/tag/1.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/ncrypto 1.0.0</title>
+      <description><![CDATA[<p>Released nodejs/ncrypto 1.0.0 by jasnell. <a href="https://github.com/nodejs/ncrypto/releases/tag/1.0.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 13 Feb 2025 18:08:00 GMT</pubDate>
+      <link>https://github.com/nodejs/ncrypto/releases/tag/1.0.0</link>
+      <guid>https://github.com/nodejs/ncrypto/releases/tag/1.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v23.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.8.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v23.8.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 13 Feb 2025 17:42:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.8.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.14.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.14.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.14.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 11 Feb 2025 10:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.14.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.14.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.18.3</title>
+      <description><![CDATA[<p>Released nodejs/node v20.18.3 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.18.3">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Feb 2025 13:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.18.3</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.18.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v11.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v11.1.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v11.1.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Feb 2025 10:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v11.1.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v11.1.0</guid>
+    </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.0</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.0">More details</a></p>
@@ -37,6 +85,13 @@
       <pubDate>Tue, 04 Feb 2025 17:11:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v0.3.2</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v0.3.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-02-02 to 2025-02-09</title>
+      <description><![CDATA[<p>Reporting on 42 Issues from 23 authors, 58 Pull Requests from 27 authors, and 7 Discussions from 7 authors.</p>]]></description>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-02-02.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-02-02.md</guid>
     </item>
     <item>
       <title>Released nodejs/cjs-module-lexer 2.0.0</title>
