@@ -4,8 +4,8 @@
   "releasePaginationLimit": 10,
   "commentsPaginationLimit": 100,
   "retrospective": {
-    "lastDay": "2025-02-09",
-    "nextDay": "2025-02-16"
+    "lastDay": "2025-02-23",
+    "nextDay": "2025-03-02"
   },
   "breakDelimiter": "</image>",
   "discussionsInScope": [
