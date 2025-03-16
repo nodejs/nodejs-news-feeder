@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Mon, 10 Mar 2025 13:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 00:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v23.10.0</title>
+      <description><![CDATA[<p>Released nodejs/node v23.10.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v23.10.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 13 Mar 2025 23:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.10.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.10.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.19.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.19.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.19.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 13 Mar 2025 13:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.19.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.19.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.21.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.21.2 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.21.2">More details</a></p>
+]]></description>
+      <pubDate>Thu, 13 Mar 2025 12:08:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.21.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.21.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.11</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.11 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.11">More details</a></p>
+]]></description>
+      <pubDate>Wed, 12 Mar 2025 21:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.11</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.11</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.5.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.5.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.5.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 12 Mar 2025 17:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.5.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.5.0</guid>
+    </item>
     <item>
       <title>Released nodejs/nodejs-dist-indexer v1.7.10</title>
       <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.10 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.10">More details</a></p>
