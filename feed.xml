@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 06 Apr 2025 11:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 00:35:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/undici v7.8.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.8.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.8.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 10 Apr 2025 10:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.8.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.8.0</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.7.0</title>
       <description><![CDATA[<p>Released nodejs/undici v7.7.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.7.0">More details</a></p>
@@ -53,6 +61,13 @@
       <pubDate>Tue, 01 Apr 2025 08:42:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.12.2</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.12.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-03-30 to 2025-04-06</title>
+      <description><![CDATA[<p>Reporting on 43 Issues from 19 authors, 57 Pull Requests from 27 authors, and 5 Discussions from 5 authors.</p>]]></description>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-03-30.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-03-30.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.12.1</title>
