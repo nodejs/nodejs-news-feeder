@@ -7,7 +7,7 @@ const comments = await Promise.all(discussionsInScope.map(async ({ discussionId,
   const { repository } = await graphql(
     `
     {
-      repository(name: "node", owner: "nodejs") {
+      repository(name: "help", owner: "nodejs") {
         discussion(number: ${discussionId}) {
           comments(last: 100) {
             edges {
