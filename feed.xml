@@ -8,12 +8,185 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 13 Apr 2025 00:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 17:23:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v24.0.2</title>
+      <description><![CDATA[<p>Released nodejs/node v24.0.2 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.0.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 May 2025 21:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.0.2</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.0.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v23.11.1</title>
+      <description><![CDATA[<p>Released nodejs/node v23.11.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v23.11.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 May 2025 21:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v23.11.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v23.11.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.15.1</title>
+      <description><![CDATA[<p>Released nodejs/node v22.15.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.15.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 May 2025 21:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.15.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.15.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.19.2</title>
+      <description><![CDATA[<p>Released nodejs/node v20.19.2 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.19.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 May 2025 21:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.19.2</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.19.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.14</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.14 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.14">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 May 2025 17:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.14</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.14</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.2</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.13.2 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 May 2025 09:21:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.2</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.13.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.21.3</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.21.3 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.21.3">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 May 2025 08:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.21.3</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.21.3</guid>
+    </item>
+    <item>
+      <title>Website team update on 2025-05-12 14:28:00</title>
+      <description><![CDATA[<p>👋 Hello everyone! The Website Team has been hard at work these past few months, and we’re thrilled to share a few of our latest improvements:</p>
+<ol>
+<li>
+<p><strong>Switched our package manager to pnpm</strong> (#7662)
+– Reduced install times in our CI and development environments thanks to pnpm’s disk-space optimizations.
+– Optimized our dependencies using pnpm's strict dependency deduplication.</p>
+</li>
+<li>
+<p><strong>Proposed a migration in <code>nodejs/node</code> to our new <code>api-docs-tooling</code></strong> (https://github.com/nodejs/node/pull/57343)
+– Opened a pull request to replace the current Node.js documentation generator with our modern,<code>api-docs-tooling</code>.
+– This is the first step in our documentation revamp and migration!</p>
+</li>
+<li>
+<p><strong>Extracted our UI components into a standalone design-system package</strong> (#7401)
+– We've consolidated elements, layout utilities, and more into <code>@node-core/ui-components</code> for easy import across the organization.
+– This ensures a single source of truth for styles and behavior, reducing duplication and speeding up feature development.</p>
+</li>
+<li>
+<p><strong>Upgraded to Tailwind CSS v4</strong> (#7507)
+– We are happy to see faster builds and smaller CSS bundles</p>
+</li>
+<li>
+<p><strong>Support for Cloudflare Workers</strong> (#7383)</p>
+<ul>
+<li>We also now support Cloudflare Workers!</li>
+<li>This way, our deployments can be deployed anywhere, at any time.</li>
+</ul>
+</li>
+</ol>
+<p>We’re excited about these changes and the benefits they’ll bring to our developer experience, documentation quality, and overall site performance. Stay tuned for more updates—and as always, feedback is welcome!</p>
+]]></description>
+      <pubDate>Mon, 12 May 2025 14:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs.org/issues/5602#issuecomment-2872801101</link>
+      <guid>https://github.com/nodejs/nodejs.org/issues/5602#issuecomment-2872801101</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.9.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.9.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.9.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 10 May 2025 18:37:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.9.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.9.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.0.1</title>
+      <description><![CDATA[<p>Released nodejs/node v24.0.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.0.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 08 May 2025 20:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.0.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.0.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.0.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 06 May 2025 14:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.0.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.5.3</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.5.3 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v0.5.3">More details</a></p>
+]]></description>
+      <pubDate>Mon, 05 May 2025 06:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.5.3</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.5.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.13.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.13.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.13.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 01 May 2025 15:48:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.13.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.13.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.15.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.15.0 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v22.15.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 23 Apr 2025 07:47:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.15.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.15.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.19.1</title>
+      <description><![CDATA[<p>Released nodejs/node v20.19.1 by UlisesGascon. <a href="https://github.com/nodejs/node/releases/tag/v20.19.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 22 Apr 2025 13:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.19.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.19.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.2</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.2 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 15 Apr 2025 00:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.2</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.13</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.13 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.13">More details</a></p>
+]]></description>
+      <pubDate>Tue, 15 Apr 2025 00:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.13</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.13</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v0.5.2</title>
+      <description><![CDATA[<p>Released nodejs/amaro v0.5.2 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v0.5.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 14 Apr 2025 10:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v0.5.2</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v0.5.2</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.8.0</title>
       <description><![CDATA[<p>Released nodejs/undici v7.8.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.8.0">More details</a></p>
@@ -21,6 +194,13 @@
       <pubDate>Thu, 10 Apr 2025 10:01:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v7.8.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v7.8.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-04-06 to 2025-04-13</title>
+      <description><![CDATA[<p>Reporting on 45 Issues from 22 authors, 55 Pull Requests from 34 authors, and 4 Discussions from 4 authors.</p>]]></description>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-04-06.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-04-06.md</guid>
     </item>
     <item>
       <title>Released nodejs/undici v7.7.0</title>
