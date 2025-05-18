@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Thu, 15 May 2025 17:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/userland-migrations v1.0.0@correct-ts-specifiers</title>
+      <description><![CDATA[<p>Released nodejs/userland-migrations v1.0.0@correct-ts-specifiers by JakobJingleheimer. <a href="https://github.com/nodejs/userland-migrations/releases/tag/v1.0.0%40correct-ts-specifiers">More details</a></p>
+]]></description>
+      <pubDate>Fri, 16 May 2025 15:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/userland-migrations/releases/tag/v1.0.0%40correct-ts-specifiers</link>
+      <guid>https://github.com/nodejs/userland-migrations/releases/tag/v1.0.0%40correct-ts-specifiers</guid>
+    </item>
     <item>
       <title>Released nodejs/node v24.0.2</title>
       <description><![CDATA[<p>Released nodejs/node v24.0.2 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.0.2">More details</a></p>
