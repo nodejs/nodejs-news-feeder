@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 18 May 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/llhttp release/v9.3.0</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.3.0 by indutny. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.3.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 23 May 2025 13:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.3.0</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.1.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.1.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 21 May 2025 15:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.1.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.16.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.16.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.16.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 21 May 2025 15:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.16.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.16.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.10.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.10.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.10.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 20 May 2025 07:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.10.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.10.0</guid>
+    </item>
     <item>
       <title>Released nodejs/userland-migrations v1.0.0@correct-ts-specifiers</title>
       <description><![CDATA[<p>Released nodejs/userland-migrations v1.0.0@correct-ts-specifiers by JakobJingleheimer. <a href="https://github.com/nodejs/userland-migrations/releases/tag/v1.0.0%40correct-ts-specifiers">More details</a></p>
@@ -194,6 +226,13 @@
       <pubDate>Mon, 14 Apr 2025 10:17:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v0.5.2</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v0.5.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-04-13 to 2025-04-20</title>
+      <description><![CDATA[<p>Reporting on 36 Issues from 21 authors, 64 Pull Requests from 32 authors, and 100 Discussions from 90 authors.</p>]]></description>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-04-13.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-04-13.md</guid>
     </item>
     <item>
       <title>Released nodejs/undici v7.8.0</title>
