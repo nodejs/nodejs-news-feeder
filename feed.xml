@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 25 May 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/corepack v0.33.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.33.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.33.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 02 Jun 2025 13:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.33.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.33.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.14.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.14.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.14.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 27 May 2025 11:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.14.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.14.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.14.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.14.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.14.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 26 May 2025 18:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.14.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.14.0</guid>
+    </item>
     <item>
       <title>Released nodejs/llhttp release/v9.3.0</title>
       <description><![CDATA[<p>Released nodejs/llhttp release/v9.3.0 by indutny. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.3.0">More details</a></p>
@@ -202,6 +226,13 @@
       <pubDate>Tue, 22 Apr 2025 13:24:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v20.19.1</link>
       <guid>https://github.com/nodejs/node/releases/tag/v20.19.1</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-04-20 to 2025-04-27</title>
+      <description><![CDATA[<p>Reporting on 36 Issues from 28 authors, 64 Pull Requests from 45 authors, and 4 Discussions from 4 authors.</p>]]></description>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-04-20.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-04-20.md</guid>
     </item>
     <item>
       <title>Released nodejs/changelog-maker v4.4.2</title>
@@ -3373,6 +3404,14 @@ See the related&#xD;
       <pubDate>Tue, 29 Aug 2023 15:38:00 GMT</pubDate>
       <link>https://github.com/nodejs/corepack/releases/tag/v0.20.0</link>
       <guid>https://github.com/nodejs/corepack/releases/tag/v0.20.0</guid>
+    </item>
+    <item>
+      <title>Website team update on 2023-08-27 12:14:31</title>
+      <description><![CDATA[<p>I assume we could do this, but we don't have the bandwidth right now, I guess</p>
+]]></description>
+      <pubDate>Sun, 27 Aug 2023 12:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs.org/issues/5602#issuecomment-1694652630</link>
+      <guid>https://github.com/nodejs/nodejs.org/issues/5602#issuecomment-1694652630</guid>
     </item>
     <item>
       <title>Released nodejs/llhttp release/v9.0.1</title>
