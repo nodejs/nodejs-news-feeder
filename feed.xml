@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 15 Jun 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/gyp-next v0.20.1</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.20.1 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.20.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 20 Jun 2025 12:21:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.20.1</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.20.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.1.0</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.1.0 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.1.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 16 Jun 2025 19:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.1.0</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node-addon-api v8.4.0</title>
       <description><![CDATA[<p>Released nodejs/node-addon-api v8.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.4.0">More details</a></p>
@@ -242,6 +258,13 @@
       <pubDate>Mon, 05 May 2025 06:09:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v0.5.3</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v0.5.3</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-05-04 to 2025-05-11</title>
+      <description><![CDATA[<p>Reporting on 43 Issues from 25 authors, 57 Pull Requests from 30 authors, and 6 Discussions from 6 authors.</p>]]></description>
+      <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-05-04.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-05-04.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.13.0</title>
