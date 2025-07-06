@@ -8,7 +8,7 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 29 Jun 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 17:23:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
@@ -165,6 +165,13 @@
       <pubDate>Tue, 20 May 2025 07:19:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v7.10.0</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v7.10.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-05-18 to 2025-05-25</title>
+      <description><![CDATA[<p>Reporting on 41 Issues from 28 authors, 59 Pull Requests from 33 authors, and 1 Discussions from 1 authors.</p>]]></description>
+      <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-05-18.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-05-18.md</guid>
     </item>
     <item>
       <title>Released nodejs/userland-migrations v1.0.0@correct-ts-specifiers</title>
