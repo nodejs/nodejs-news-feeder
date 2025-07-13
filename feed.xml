@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 06 Jul 2025 17:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 00:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-core-utils v5.14.1</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.14.1 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.14.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 11 Jul 2025 18:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.14.1</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.14.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.4.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.4.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.4.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 09 Jul 2025 12:37:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.4.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.4.0</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.11.0</title>
       <description><![CDATA[<p>Released nodejs/undici v7.11.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.11.0">More details</a></p>
@@ -133,6 +149,13 @@
       <pubDate>Mon, 26 May 2025 18:57:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.14.0</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.14.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-05-25 to 2025-06-01</title>
+      <description><![CDATA[<p>Reporting on 47 Issues from 13 authors, 53 Pull Requests from 30 authors, and 5 Discussions from 5 authors.</p>]]></description>
+      <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-05-25.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-05-25.md</guid>
     </item>
     <item>
       <title>Released nodejs/llhttp release/v9.3.0</title>
