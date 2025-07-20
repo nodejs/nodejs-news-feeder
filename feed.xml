@@ -8,12 +8,60 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 13 Jul 2025 08:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 10:51:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/corepack v0.34.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.34.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 19 Jul 2025 18:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.34.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.34.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.12.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.12.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.12.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 18 Jul 2025 14:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.12.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.12.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.4.1</title>
+      <description><![CDATA[<p>Released nodejs/node v24.4.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.4.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 15 Jul 2025 22:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.4.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.4.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.17.1</title>
+      <description><![CDATA[<p>Released nodejs/node v22.17.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v22.17.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 15 Jul 2025 22:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.17.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.17.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.19.4</title>
+      <description><![CDATA[<p>Released nodejs/node v20.19.4 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v20.19.4">More details</a></p>
+]]></description>
+      <pubDate>Tue, 15 Jul 2025 22:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.19.4</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.19.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v8.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.5.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.5.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 14 Jul 2025 20:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.5.0</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.5.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node-core-utils v5.14.1</title>
       <description><![CDATA[<p>Released nodejs/node-core-utils v5.14.1 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.14.1">More details</a></p>
@@ -133,6 +181,13 @@
       <pubDate>Mon, 02 Jun 2025 13:06:00 GMT</pubDate>
       <link>https://github.com/nodejs/corepack/releases/tag/v0.33.0</link>
       <guid>https://github.com/nodejs/corepack/releases/tag/v0.33.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-06-01 to 2025-06-08</title>
+      <description><![CDATA[<p>Reporting on 37 Issues from 24 authors, 63 Pull Requests from 27 authors, and 3 Discussions from 3 authors.</p>]]></description>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-06-01.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-06-01.md</guid>
     </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.14.0</title>
