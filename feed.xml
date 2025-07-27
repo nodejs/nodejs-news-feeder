@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 20 Jul 2025 10:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 05:41:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/amaro v1.1.1</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.1.1 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.1.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 21 Jul 2025 12:31:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.1.1</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.1</guid>
+    </item>
     <item>
       <title>Released nodejs/corepack v0.34.0</title>
       <description><![CDATA[<p>Released nodejs/corepack v0.34.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.0">More details</a></p>
@@ -173,6 +181,13 @@
       <pubDate>Mon, 09 Jun 2025 06:48:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v1.0.0</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v1.0.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-06-08 to 2025-06-15</title>
+      <description><![CDATA[<p>Reporting on 39 Issues from 18 authors, 61 Pull Requests from 36 authors, and 25 Discussions from 24 authors.</p>]]></description>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-06-08.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-06-08.md</guid>
     </item>
     <item>
       <title>Released nodejs/corepack v0.33.0</title>
