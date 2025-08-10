@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 03 Aug 2025 19:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 00:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-core-utils v5.15.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.15.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.15.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 09 Aug 2025 12:48:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.15.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.15.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.15</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.15 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.15">More details</a></p>
+]]></description>
+      <pubDate>Mon, 04 Aug 2025 03:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.15</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.15</guid>
+    </item>
     <item>
       <title>Released nodejs/node v24.5.0</title>
       <description><![CDATA[<p>Released nodejs/node v24.5.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.5.0">More details</a></p>
@@ -157,6 +173,13 @@
       <pubDate>Sun, 22 Jun 2025 10:53:00 GMT</pubDate>
       <link>https://github.com/nodejs/gyp-next/releases/tag/v0.20.2</link>
       <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.20.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-06-22 to 2025-06-29</title>
+      <description><![CDATA[<p>Reporting on 48 Issues from 20 authors, 52 Pull Requests from 29 authors, and 9 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-06-22.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-06-22.md</guid>
     </item>
     <item>
       <title>Released nodejs/gyp-next v0.20.1</title>
