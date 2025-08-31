@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 24 Aug 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v22.19.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.19.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.19.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 28 Aug 2025 21:21:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.19.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.19.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.7.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.7.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v24.7.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 27 Aug 2025 21:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.7.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.7.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v11.4.2</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v11.4.2 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v11.4.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 26 Aug 2025 14:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v11.4.2</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v11.4.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.20.4</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.20.4 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.20.4">More details</a></p>
+]]></description>
+      <pubDate>Tue, 26 Aug 2025 11:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.20.4</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.20.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.1.2</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.1.2 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.1.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 25 Aug 2025 07:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.1.2</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.2</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.15.0</title>
       <description><![CDATA[<p>Released nodejs/undici v7.15.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.15.0">More details</a></p>
@@ -189,6 +229,13 @@
       <pubDate>Mon, 14 Jul 2025 20:05:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.5.0</link>
       <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.5.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-07-13 to 2025-07-20</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 17 authors, 60 Pull Requests from 30 authors, and 5 Discussions from 5 authors.</p>]]></description>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-07-13.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-07-13.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.14.1</title>
