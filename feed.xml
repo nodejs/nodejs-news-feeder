@@ -8,12 +8,52 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 31 Aug 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 00:12:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.4</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.4 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.4">More details</a></p>
+]]></description>
+      <pubDate>Fri, 05 Sep 2025 04:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.4</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.18</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.18 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.18">More details</a></p>
+]]></description>
+      <pubDate>Fri, 05 Sep 2025 04:36:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.18</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.18</guid>
+    </item>
+    <item>
+      <title>Released nodejs/uvwasi v0.0.23</title>
+      <description><![CDATA[<p>Released nodejs/uvwasi v0.0.23 by aduh95. <a href="https://github.com/nodejs/uvwasi/releases/tag/v0.0.23">More details</a></p>
+]]></description>
+      <pubDate>Wed, 03 Sep 2025 20:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/releases/tag/v0.0.23</link>
+      <guid>https://github.com/nodejs/uvwasi/releases/tag/v0.0.23</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.19.5</title>
+      <description><![CDATA[<p>Released nodejs/node v20.19.5 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.19.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 03 Sep 2025 18:22:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.19.5</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.19.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/uvwasi v0.0.22</title>
+      <description><![CDATA[<p>Released nodejs/uvwasi v0.0.22 by aduh95. <a href="https://github.com/nodejs/uvwasi/releases/tag/v0.0.22">More details</a></p>
+]]></description>
+      <pubDate>Tue, 02 Sep 2025 21:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/uvwasi/releases/tag/v0.0.22</link>
+      <guid>https://github.com/nodejs/uvwasi/releases/tag/v0.0.22</guid>
+    </item>
     <item>
       <title>Released nodejs/node v22.19.0</title>
       <description><![CDATA[<p>Released nodejs/node v22.19.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.19.0">More details</a></p>
@@ -181,6 +221,13 @@
       <pubDate>Mon, 21 Jul 2025 12:31:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v1.1.1</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.1</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-07-20 to 2025-07-27</title>
+      <description><![CDATA[<p>Reporting on 44 Issues from 14 authors, 56 Pull Requests from 24 authors, and 6 Discussions from 6 authors.</p>]]></description>
+      <pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-07-20.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-07-20.md</guid>
     </item>
     <item>
       <title>Released nodejs/corepack v0.34.0</title>
