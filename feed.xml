@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 07 Sep 2025 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 06:07:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v24.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.8.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v24.8.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Sep 2025 19:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.8.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.16.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.16.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.16.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 09 Sep 2025 17:07:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.16.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.16.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.19</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.19 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.19">More details</a></p>
+]]></description>
+      <pubDate>Mon, 08 Sep 2025 00:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.19</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.19</guid>
+    </item>
     <item>
       <title>Released nodejs/changelog-maker v4.4.4</title>
       <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.4 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.4">More details</a></p>
@@ -213,6 +237,13 @@
       <pubDate>Wed, 30 Jul 2025 02:17:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-gyp/releases/tag/v11.3.0</link>
       <guid>https://github.com/nodejs/node-gyp/releases/tag/v11.3.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-07-27 to 2025-08-03</title>
+      <description><![CDATA[<p>Reporting on 35 Issues from 19 authors, 65 Pull Requests from 28 authors, and 5 Discussions from 5 authors.</p>]]></description>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-07-27.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-07-27.md</guid>
     </item>
     <item>
       <title>Released nodejs/amaro v1.1.1</title>
