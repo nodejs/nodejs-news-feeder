@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 14 Sep 2025 06:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 00:12:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-core-utils v5.16.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.16.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.16.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 18 Sep 2025 15:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node v24.8.0</title>
       <description><![CDATA[<p>Released nodejs/node v24.8.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v24.8.0">More details</a></p>
@@ -205,6 +213,13 @@
       <pubDate>Mon, 04 Aug 2025 03:20:00 GMT</pubDate>
       <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.15</link>
       <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.15</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-08-03 to 2025-08-10</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 21 authors, 60 Pull Requests from 37 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-08-03.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-08-03.md</guid>
     </item>
     <item>
       <title>Released nodejs/node v24.5.0</title>
