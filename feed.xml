@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 05 Oct 2025 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 00:12:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v24.10.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.10.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.10.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 11 Oct 2025 16:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.10.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.10.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v1.15.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v1.15.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.15.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 10 Oct 2025 16:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.15.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v1.15.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-api-headers v1.6.0</title>
+      <description><![CDATA[<p>Released nodejs/node-api-headers v1.6.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.6.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 09 Oct 2025 10:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-api-headers/releases/tag/v1.6.0</link>
+      <guid>https://github.com/nodejs/node-api-headers/releases/tag/v1.6.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.20</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.20 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.20">More details</a></p>
+]]></description>
+      <pubDate>Wed, 08 Oct 2025 22:51:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.20</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.20</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v6.22.0</title>
       <description><![CDATA[<p>Released nodejs/undici v6.22.0 by mcollina. <a href="https://github.com/nodejs/undici/releases/tag/v6.22.0">More details</a></p>
@@ -197,6 +229,13 @@
       <pubDate>Mon, 25 Aug 2025 07:46:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v1.1.2</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-08-24 to 2025-08-31</title>
+      <description><![CDATA[<p>Reporting on 36 Issues from 18 authors, 64 Pull Requests from 31 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-08-24.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-08-24.md</guid>
     </item>
     <item>
       <title>Released nodejs/undici v7.15.0</title>
