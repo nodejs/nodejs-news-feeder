@@ -8,12 +8,84 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 12 Oct 2025 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/corepack v0.34.1</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.34.1 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 17 Oct 2025 17:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.34.1</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.34.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.0 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 16 Oct 2025 16:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.22</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.22 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.22">More details</a></p>
+]]></description>
+      <pubDate>Thu, 16 Oct 2025 01:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.22</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.22</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v25.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node v25.0.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v25.0.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 Oct 2025 17:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v25.0.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v25.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v11.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v11.5.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v11.5.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 Oct 2025 12:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v11.5.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v11.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.5</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.5 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 Oct 2025 01:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.5</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.21</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.21 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.21">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 Oct 2025 01:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.21</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.21</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.20.5</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.20.5 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.20.5">More details</a></p>
+]]></description>
+      <pubDate>Mon, 13 Oct 2025 16:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.20.5</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.20.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v5.16.2</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v5.16.2 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v5.16.2">More details</a></p>
+]]></description>
+      <pubDate>Sun, 12 Oct 2025 14:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.2</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.2</guid>
+    </item>
     <item>
       <title>Released nodejs/node v24.10.0</title>
       <description><![CDATA[<p>Released nodejs/node v24.10.0 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v24.10.0">More details</a></p>
@@ -189,6 +261,13 @@
       <pubDate>Tue, 02 Sep 2025 21:59:00 GMT</pubDate>
       <link>https://github.com/nodejs/uvwasi/releases/tag/v0.0.22</link>
       <guid>https://github.com/nodejs/uvwasi/releases/tag/v0.0.22</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-08-31 to 2025-09-07</title>
+      <description><![CDATA[<p>Reporting on 41 Issues from 14 authors, 59 Pull Requests from 31 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-08-31.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-08-31.md</guid>
     </item>
     <item>
       <title>Released nodejs/node v22.19.0</title>
