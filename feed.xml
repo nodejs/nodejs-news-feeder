@@ -8,12 +8,28 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 19 Oct 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 00:12:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v22.21.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.21.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.21.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 20 Oct 2025 23:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.21.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.21.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/require-in-the-middle require-in-the-middle-v8.0.1</title>
+      <description><![CDATA[<p>Released nodejs/require-in-the-middle require-in-the-middle-v8.0.1 by nodejs-github-bot. <a href="https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v8.0.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 20 Oct 2025 12:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v8.0.1</link>
+      <guid>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v8.0.1</guid>
+    </item>
     <item>
       <title>Released nodejs/corepack v0.34.1</title>
       <description><![CDATA[<p>Released nodejs/corepack v0.34.1 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.1">More details</a></p>
@@ -221,6 +237,13 @@
       <pubDate>Mon, 08 Sep 2025 00:33:00 GMT</pubDate>
       <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.19</link>
       <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.19</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-09-07 to 2025-09-14</title>
+      <description><![CDATA[<p>Reporting on 34 Issues from 15 authors, 66 Pull Requests from 43 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-07.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-07.md</guid>
     </item>
     <item>
       <title>Released nodejs/changelog-maker v4.4.4</title>
