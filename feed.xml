@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 26 Oct 2025 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 00:12:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v25.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node v25.1.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v25.1.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 28 Oct 2025 19:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v25.1.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v25.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.21.1</title>
+      <description><![CDATA[<p>Released nodejs/node v22.21.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.21.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 28 Oct 2025 19:09:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.21.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.21.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.11.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.11.0 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v24.11.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 28 Oct 2025 17:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.11.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.11.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.1.5</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.1.5 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.1.5">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Oct 2025 03:47:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.1.5</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.5</guid>
+    </item>
     <item>
       <title>Released nodejs/node v22.21.0</title>
       <description><![CDATA[<p>Released nodejs/node v22.21.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.21.0">More details</a></p>
@@ -213,6 +245,13 @@
       <pubDate>Thu, 18 Sep 2025 15:02:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.0</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-09-14 to 2025-09-21</title>
+      <description><![CDATA[<p>Reporting on 50 Issues from 15 authors, 50 Pull Requests from 31 authors, and 3 Discussions from 3 authors.</p>]]></description>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-14.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-14.md</guid>
     </item>
     <item>
       <title>Released nodejs/node v24.8.0</title>
