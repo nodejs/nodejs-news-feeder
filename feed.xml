@@ -8,12 +8,92 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 02 Nov 2025 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 00:12:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.23</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.23 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.23">More details</a></p>
+]]></description>
+      <pubDate>Sat, 15 Nov 2025 11:18:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.23</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.23</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.34.4</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.34.4 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.4">More details</a></p>
+]]></description>
+      <pubDate>Fri, 14 Nov 2025 14:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.34.4</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.34.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v12.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v12.1.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v12.1.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 12 Nov 2025 21:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v12.1.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v12.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v25.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node v25.2.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v25.2.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v25.2.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v25.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.11.1</title>
+      <description><![CDATA[<p>Released nodejs/node v24.11.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.11.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 11 Nov 2025 22:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.11.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.11.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v12.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v12.0.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v12.0.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 11 Nov 2025 04:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v12.0.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v12.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/cjs-module-lexer 2.1.1</title>
+      <description><![CDATA[<p>Released nodejs/cjs-module-lexer 2.1.1 by guybedford. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/2.1.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Nov 2025 22:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.1.1</link>
+      <guid>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.21.0</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.21.0 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.21.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Nov 2025 22:30:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.21.0</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.21.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.34.3</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.34.3 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.3">More details</a></p>
+]]></description>
+      <pubDate>Fri, 07 Nov 2025 21:42:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.34.3</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.34.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.34.2</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.34.2 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.2">More details</a></p>
+]]></description>
+      <pubDate>Sun, 02 Nov 2025 13:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.34.2</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.34.2</guid>
+    </item>
     <item>
       <title>Released nodejs/node v25.1.0</title>
       <description><![CDATA[<p>Released nodejs/node v25.1.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v25.1.0">More details</a></p>
@@ -237,6 +317,13 @@
       <pubDate>Mon, 22 Sep 2025 11:59:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.1</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.1</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-09-21 to 2025-09-28</title>
+      <description><![CDATA[<p>Reporting on 46 Issues from 26 authors, 54 Pull Requests from 26 authors, and 0 Discussions from 0 authors.</p>]]></description>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-21.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-21.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v5.16.0</title>
