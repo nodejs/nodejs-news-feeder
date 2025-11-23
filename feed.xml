@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 16 Nov 2025 00:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 00:13:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v25.2.1</title>
+      <description><![CDATA[<p>Released nodejs/node v25.2.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v25.2.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 17 Nov 2025 09:42:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v25.2.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v25.2.1</guid>
+    </item>
     <item>
       <title>Released nodejs/nodejs-dist-indexer v1.7.23</title>
       <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.23 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.23">More details</a></p>
@@ -261,6 +269,13 @@
       <pubDate>Sun, 28 Sep 2025 04:32:00 GMT</pubDate>
       <link>https://github.com/nodejs/amaro/releases/tag/v1.1.4</link>
       <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.4</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-09-28 to 2025-10-05</title>
+      <description><![CDATA[<p>Reporting on 35 Issues from 15 authors, 65 Pull Requests from 26 authors, and 6 Discussions from 6 authors.</p>]]></description>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-28.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-09-28.md</guid>
     </item>
     <item>
       <title>Released nodejs/amaro v1.1.3</title>
