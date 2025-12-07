@@ -8,12 +8,44 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 30 Nov 2025 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.7</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.7 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.7">More details</a></p>
+]]></description>
+      <pubDate>Fri, 05 Dec 2025 05:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.7</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.7</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.28</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.28 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.28">More details</a></p>
+]]></description>
+      <pubDate>Fri, 05 Dec 2025 05:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.28</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.28</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.27</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.27 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.27">More details</a></p>
+]]></description>
+      <pubDate>Fri, 05 Dec 2025 03:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.27</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.27</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.7.26</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.7.26 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.26">More details</a></p>
+]]></description>
+      <pubDate>Mon, 01 Dec 2025 01:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.26</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.26</guid>
+    </item>
     <item>
       <title>Released nodejs/node-api-headers v1.7.0</title>
       <description><![CDATA[<p>Released nodejs/node-api-headers v1.7.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-api-headers/releases/tag/v1.7.0">More details</a></p>
@@ -269,6 +301,13 @@
       <pubDate>Sun, 12 Oct 2025 14:40:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.2</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v5.16.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-10-12 to 2025-10-19</title>
+      <description><![CDATA[<p>Reporting on 41 Issues from 27 authors, 59 Pull Requests from 33 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-10-12.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-10-12.md</guid>
     </item>
     <item>
       <title>Released nodejs/node v24.10.0</title>
