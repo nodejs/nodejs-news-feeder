@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 07 Dec 2025 00:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node v24.12.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.12.0 by targos. <a href="https://github.com/nodejs/node/releases/tag/v24.12.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 10 Dec 2025 16:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.12.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.12.0</guid>
+    </item>
     <item>
       <title>Released nodejs/changelog-maker v4.4.7</title>
       <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.7 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.7">More details</a></p>
@@ -229,6 +237,13 @@
       <pubDate>Mon, 20 Oct 2025 12:26:00 GMT</pubDate>
       <link>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v8.0.1</link>
       <guid>https://github.com/nodejs/require-in-the-middle/releases/tag/require-in-the-middle-v8.0.1</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-10-19 to 2025-10-26</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 24 authors, 60 Pull Requests from 31 authors, and 4 Discussions from 4 authors.</p>]]></description>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-10-19.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-10-19.md</guid>
     </item>
     <item>
       <title>Released nodejs/corepack v0.34.1</title>
