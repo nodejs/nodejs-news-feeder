@@ -8,12 +8,20 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 21 Dec 2025 00:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-core-utils v6.0.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v6.0.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v6.0.0">More details</a></p>
+]]></description>
+      <pubDate>Sun, 21 Dec 2025 11:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v6.0.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v6.0.0</guid>
+    </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.1</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.1 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.1">More details</a></p>
@@ -197,6 +205,13 @@
       <pubDate>Sun, 02 Nov 2025 13:14:00 GMT</pubDate>
       <link>https://github.com/nodejs/corepack/releases/tag/v0.34.2</link>
       <guid>https://github.com/nodejs/corepack/releases/tag/v0.34.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-11-02 to 2025-11-09</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 23 authors, 60 Pull Requests from 32 authors, and 4 Discussions from 4 authors.</p>]]></description>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-11-02.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-11-02.md</guid>
     </item>
     <item>
       <title>Released nodejs/node v25.1.0</title>
