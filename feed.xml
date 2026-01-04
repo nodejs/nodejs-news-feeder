@@ -8,12 +8,36 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 28 Dec 2025 00:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 09:22:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/cjs-module-lexer 2.2.0</title>
+      <description><![CDATA[<p>Released nodejs/cjs-module-lexer 2.2.0 by guybedford. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/2.2.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 02 Jan 2026 19:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.2.0</link>
+      <guid>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v6.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v6.1.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v6.1.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 02 Jan 2026 18:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v6.1.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v6.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nbytes v0.1.2</title>
+      <description><![CDATA[<p>Released nodejs/nbytes v0.1.2 by lemire. <a href="https://github.com/nodejs/nbytes/releases/tag/v0.1.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 29 Dec 2025 00:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nbytes/releases/tag/v0.1.2</link>
+      <guid>https://github.com/nodejs/nbytes/releases/tag/v0.1.2</guid>
+    </item>
     <item>
       <title>Released nodejs/node-core-utils v6.0.0</title>
       <description><![CDATA[<p>Released nodejs/node-core-utils v6.0.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v6.0.0">More details</a></p>
@@ -173,6 +197,13 @@
       <pubDate>Tue, 11 Nov 2025 04:44:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-gyp/releases/tag/v12.0.0</link>
       <guid>https://github.com/nodejs/node-gyp/releases/tag/v12.0.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-11-09 to 2025-11-16</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 18 authors, 60 Pull Requests from 23 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-11-09.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-11-09.md</guid>
     </item>
     <item>
       <title>Released nodejs/cjs-module-lexer 2.1.1</title>
