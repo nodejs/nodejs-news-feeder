@@ -8,12 +8,68 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 11 Jan 2026 00:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 00:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.4</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.4 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.4">More details</a></p>
+]]></description>
+      <pubDate>Wed, 14 Jan 2026 15:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.4</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.3</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.3 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.3">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 Jan 2026 23:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.3</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v25.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node v25.3.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v25.3.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 Jan 2026 13:58:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v25.3.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v25.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.13.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.13.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v24.13.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 Jan 2026 13:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.13.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.13.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.22.0</title>
+      <description><![CDATA[<p>Released nodejs/node v22.22.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v22.22.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 Jan 2026 13:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.22.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.22.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v20.20.0</title>
+      <description><![CDATA[<p>Released nodejs/node v20.20.0 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v20.20.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 13 Jan 2026 13:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v20.20.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v20.20.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.2</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.2 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 12 Jan 2026 16:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.2</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.2</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.18.2</title>
       <description><![CDATA[<p>Released nodejs/undici v7.18.2 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.18.2">More details</a></p>
@@ -189,6 +245,13 @@
       <pubDate>Mon, 24 Nov 2025 01:08:00 GMT</pubDate>
       <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.24</link>
       <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.7.24</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-11-23 to 2025-11-30</title>
+      <description><![CDATA[<p>Reporting on 43 Issues from 20 authors, 57 Pull Requests from 39 authors, and 1 Discussions from 1 authors.</p>]]></description>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-11-23.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-11-23.md</guid>
     </item>
     <item>
       <title>Released nodejs/node v25.2.1</title>
