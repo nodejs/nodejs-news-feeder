@@ -8,12 +8,68 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 25 Jan 2026 00:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 00:18:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/ncrypto v1.1.0</title>
+      <description><![CDATA[<p>Released nodejs/ncrypto v1.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/ncrypto/releases/tag/v1.1.0">More details</a></p>
+]]></description>
+      <pubDate>Sat, 31 Jan 2026 20:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/ncrypto/releases/tag/v1.1.0</link>
+      <guid>https://github.com/nodejs/ncrypto/releases/tag/v1.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.6</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v2.0.6 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.6">More details</a></p>
+]]></description>
+      <pubDate>Tue, 27 Jan 2026 22:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.6</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v2.0.6</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.19.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.19.2 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.19.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 27 Jan 2026 20:25:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.19.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.19.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.1.6</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.1.6 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.1.6">More details</a></p>
+]]></description>
+      <pubDate>Tue, 27 Jan 2026 16:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.1.6</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.6</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v12.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v12.2.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v12.2.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 27 Jan 2026 14:47:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v12.2.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v12.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v25.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node v25.5.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v25.5.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 26 Jan 2026 20:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v25.5.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v25.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.21.1</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.21.1 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.21.1">More details</a></p>
+]]></description>
+      <pubDate>Sun, 25 Jan 2026 14:25:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.21.1</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.21.1</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v7.19.1</title>
       <description><![CDATA[<p>Released nodejs/undici v7.19.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.19.1">More details</a></p>
@@ -253,6 +309,13 @@
       <pubDate>Wed, 10 Dec 2025 16:50:00 GMT</pubDate>
       <link>https://github.com/nodejs/node/releases/tag/v24.12.0</link>
       <guid>https://github.com/nodejs/node/releases/tag/v24.12.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2025-12-07 to 2025-12-14</title>
+      <description><![CDATA[<p>Reporting on 43 Issues from 27 authors, 57 Pull Requests from 30 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-12-07.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2025-12-07.md</guid>
     </item>
     <item>
       <title>Released nodejs/changelog-maker v4.4.7</title>
