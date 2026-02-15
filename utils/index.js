@@ -100,3 +100,43 @@ export function parseRetrospectiveContent (data) {
   const dates = title.split(dateRegex)
   return { title, description, lastDay: dates[1], nextDay: dates[3] }
 }
+
+/**
+ * Calculate the current week's retrospective date.
+ * Returns the date of the most recent Sunday (previous Sunday if today is Sunday).
+ * Retro files are named by the Sunday start date of the week they cover.
+ * @returns {string} Date in YYYY-MM-DD format
+ */
+export function getCurrentRetroDate () {
+  const today = new Date()
+  const day = today.getUTCDay() // 0=Sun, 1=Mon, ..., 6=Sat
+
+  // Calculate days to the previous Sunday
+  // If today is Sunday (0), go back 7 days to get the previous Sunday
+  // Otherwise, go back 'day' days to reach the most recent Sunday
+  const daysBack = day === 0 ? 7 : day
+
+  const targetDate = new Date(today)
+  targetDate.setUTCDate(today.getUTCDate() - daysBack)
+
+  // Format as YYYY-MM-DD
+  const year = targetDate.getUTCFullYear()
+  const month = addLeadingZero(targetDate.getUTCMonth() + 1)
+  const dateNum = addLeadingZero(targetDate.getUTCDate())
+  return `${year}-${month}-${dateNum}`
+}
+
+/**
+ * Calculate the next week's retrospective date from a given date.
+ * @param {string} dateString - Date in YYYY-MM-DD format
+ * @returns {string} Date in YYYY-MM-DD format, 7 days later
+ */
+export function getNextRetroDate (dateString) {
+  const date = new Date(dateString + 'T00:00:00Z')
+  date.setUTCDate(date.getUTCDate() + 7)
+
+  const year = date.getUTCFullYear()
+  const month = addLeadingZero(date.getUTCMonth() + 1)
+  const dateNum = addLeadingZero(date.getUTCDate())
+  return `${year}-${month}-${dateNum}`
+}
