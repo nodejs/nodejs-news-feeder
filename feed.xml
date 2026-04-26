@@ -8,12 +8,43 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 19 Apr 2026 23:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:20:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-gyp v12.3.0</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v12.3.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v12.3.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 21 Apr 2026 08:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v12.3.0</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v12.3.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.22.1</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.22.1 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.22.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 21 Apr 2026 07:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.22.1</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.22.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.4</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.4 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.4">More details</a></p>
+]]></description>
+      <pubDate>Mon, 20 Apr 2026 02:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.4</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.4</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2026-04-19 to 2026-04-26</title>
+      <description><![CDATA[<p>Reporting on 24 Issues from 10 authors, 76 Pull Requests from 33 authors, and 2 Discussions from 1 authors.</p>]]></description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-04-19.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-04-19.md</guid>
+    </item>
     <item>
       <title>Released nodejs/corepack v0.34.7</title>
       <description><![CDATA[<p>Released nodejs/corepack v0.34.7 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.34.7">More details</a></p>
@@ -77,13 +108,6 @@
       <pubDate>Sun, 12 Apr 2026 18:39:00 GMT</pubDate>
       <link>https://github.com/nodejs/undici/releases/tag/v7.24.8</link>
       <guid>https://github.com/nodejs/undici/releases/tag/v7.24.8</guid>
-    </item>
-    <item>
-      <title>Retrospective for nodejs from 2026-04-12 to 2026-04-19</title>
-      <description><![CDATA[<p>Reporting on 50 Issues from 19 authors, 50 Pull Requests from 29 authors, and 2 Discussions from 2 authors.</p>]]></description>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
-      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-04-12.md</link>
-      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-04-12.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v6.3.1</title>
