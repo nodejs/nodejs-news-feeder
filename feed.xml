@@ -8,12 +8,67 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 05 Jul 2026 23:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:22:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/orchestrion-js code-transformer-v0.18.0</title>
+      <description><![CDATA[<p>Released nodejs/orchestrion-js code-transformer-v0.18.0 by nodejs-github-bot. <a href="https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 10 Jul 2026 14:03:00 GMT</pubDate>
+      <link>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.0</link>
+      <guid>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/orchestrion-js code-transformer-v0.17.0</title>
+      <description><![CDATA[<p>Released nodejs/orchestrion-js code-transformer-v0.17.0 by nodejs-github-bot. <a href="https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.17.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.17.0</link>
+      <guid>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.17.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.5.0</title>
+      <description><![CDATA[<p>Released nodejs/node v26.5.0 by richardlau. <a href="https://github.com/nodejs/node/releases/tag/v26.5.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 08 Jul 2026 11:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.5.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.5.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v3.3.1</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v3.3.1 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 07 Jul 2026 13:57:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.1</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.38</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.38 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.38">More details</a></p>
+]]></description>
+      <pubDate>Mon, 06 Jul 2026 02:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.38</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.38</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.37</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.37 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.37">More details</a></p>
+]]></description>
+      <pubDate>Mon, 06 Jul 2026 02:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.37</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.37</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2026-07-05 to 2026-07-12</title>
+      <description><![CDATA[<p>Reporting on 30 Issues from 15 authors, 70 Pull Requests from 34 authors, and 2 Discussions from 2 authors.</p>]]></description>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-07-05.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-07-05.md</guid>
+    </item>
     <item>
       <title>Released nodejs/undici v8.7.0</title>
       <description><![CDATA[<p>Released nodejs/undici v8.7.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v8.7.0">More details</a></p>
@@ -77,13 +132,6 @@
       <pubDate>Mon, 29 Jun 2026 00:42:00 GMT</pubDate>
       <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.36</link>
       <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.36</guid>
-    </item>
-    <item>
-      <title>Retrospective for nodejs from 2026-06-28 to 2026-07-05</title>
-      <description><![CDATA[<p>Reporting on 38 Issues from 15 authors, 62 Pull Requests from 30 authors, and 2 Discussions from 2 authors.</p>]]></description>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-06-28.md</link>
-      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-06-28.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-addon-api v8.9.0</title>
