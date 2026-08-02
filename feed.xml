@@ -8,12 +8,291 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 12 Jul 2026 23:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 23:23:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v3.3.3</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v3.3.3 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.3">More details</a></p>
+]]></description>
+      <pubDate>Sat, 01 Aug 2026 00:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.3</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v8.9.1</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.9.1 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.9.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 31 Jul 2026 16:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.9.1</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.9.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v9.4.3</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.4.3 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.4.3">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jul 2026 14:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.4.3</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.4.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.1.8</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.1.8 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.1.8">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jul 2026 05:40:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.1.8</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.1.8</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.48</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.48 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.48">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jul 2026 05:21:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.48</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.48</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.23</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.23 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.23">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jul 2026 04:45:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.23</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.23</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.22</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.22 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.22">More details</a></p>
+]]></description>
+      <pubDate>Thu, 30 Jul 2026 04:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.22</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.22</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.18.1</title>
+      <description><![CDATA[<p>Released nodejs/node v24.18.1 by juanarbol. <a href="https://github.com/nodejs/node/releases/tag/v24.18.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 16:17:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.18.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.18.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.5.1</title>
+      <description><![CDATA[<p>Released nodejs/node v26.5.1 by RafaelGSS. <a href="https://github.com/nodejs/node/releases/tag/v26.5.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 14:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.5.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.5.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.23.2</title>
+      <description><![CDATA[<p>Released nodejs/node v22.23.2 by marco-ippolito. <a href="https://github.com/nodejs/node/releases/tag/v22.23.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.23.2</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.23.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.47</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.47 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.47">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 07:52:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.47</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.47</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.46</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.46 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.46">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 07:47:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.46</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.46</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.45</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.45 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.45">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 07:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.45</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.45</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.44</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.44 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.44">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 07:34:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.44</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.44</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.1.7</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.1.7 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.1.7">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 07:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.1.7</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.1.7</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.43</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.43 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.43">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 07:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.43</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.43</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.21</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.21 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.21">More details</a></p>
+]]></description>
+      <pubDate>Wed, 29 Jul 2026 06:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.21</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.21</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.42</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.42 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.42">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Jul 2026 04:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.42</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.42</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.41</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.41 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.41">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Jul 2026 04:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.41</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.41</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.20</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.20 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.20">More details</a></p>
+]]></description>
+      <pubDate>Mon, 27 Jul 2026 04:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.20</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.20</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2026-07-26 to 2026-08-02</title>
+      <description><![CDATA[<p>Reporting on 12 Issues from 6 authors, 88 Pull Requests from 13 authors, and 5 Discussions from 5 authors.</p>]]></description>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-07-26.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-07-26.md</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.28.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.28.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.28.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 24 Jul 2026 12:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.28.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.28.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v7.29.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.29.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.29.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 24 Jul 2026 12:53:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.29.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.29.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v8.9.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v8.9.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v8.9.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 24 Jul 2026 12:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v8.9.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v8.9.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/orchestrion-js code-transformer-v0.18.1</title>
+      <description><![CDATA[<p>Released nodejs/orchestrion-js code-transformer-v0.18.1 by nodejs-github-bot. <a href="https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 23 Jul 2026 13:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.1</link>
+      <guid>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.19</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.19 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.19">More details</a></p>
+]]></description>
+      <pubDate>Tue, 21 Jul 2026 02:43:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.19</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.19</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v3.3.2</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v3.3.2 by nodejs-github-bot. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 20 Jul 2026 21:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.2</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.3.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v8.8.0</title>
+      <description><![CDATA[<p>Released nodejs/undici v8.8.0 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v8.8.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 20 Jul 2026 15:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v8.8.0</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v8.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.40</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.40 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.40">More details</a></p>
+]]></description>
+      <pubDate>Mon, 20 Jul 2026 03:19:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.40</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.40</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.1.11</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.1.11 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.1.11">More details</a></p>
+]]></description>
+      <pubDate>Thu, 16 Jul 2026 13:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.1.11</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.1.11</guid>
+    </item>
+    <item>
+      <title>Released nodejs/branch-diff v3.1.6</title>
+      <description><![CDATA[<p>Released nodejs/branch-diff v3.1.6 by github-actions[bot]. <a href="https://github.com/nodejs/branch-diff/releases/tag/v3.1.6">More details</a></p>
+]]></description>
+      <pubDate>Thu, 16 Jul 2026 03:14:00 GMT</pubDate>
+      <link>https://github.com/nodejs/branch-diff/releases/tag/v3.1.6</link>
+      <guid>https://github.com/nodejs/branch-diff/releases/tag/v3.1.6</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.18</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.18 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.18">More details</a></p>
+]]></description>
+      <pubDate>Thu, 16 Jul 2026 03:13:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.18</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.18</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit v1.4.3</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit v1.4.3 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/v1.4.3">More details</a></p>
+]]></description>
+      <pubDate>Wed, 15 Jul 2026 19:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/v1.4.3</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/v1.4.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit v1.4.2</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit v1.4.2 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/v1.4.2">More details</a></p>
+]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/v1.4.2</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/v1.4.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.39</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.39 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.39">More details</a></p>
+]]></description>
+      <pubDate>Mon, 13 Jul 2026 00:26:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.39</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.39</guid>
+    </item>
     <item>
       <title>Released nodejs/orchestrion-js code-transformer-v0.18.0</title>
       <description><![CDATA[<p>Released nodejs/orchestrion-js code-transformer-v0.18.0 by nodejs-github-bot. <a href="https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.18.0">More details</a></p>
@@ -61,13 +340,6 @@
       <pubDate>Mon, 06 Jul 2026 02:39:00 GMT</pubDate>
       <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.37</link>
       <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.37</guid>
-    </item>
-    <item>
-      <title>Retrospective for nodejs from 2026-07-05 to 2026-07-12</title>
-      <description><![CDATA[<p>Reporting on 30 Issues from 15 authors, 70 Pull Requests from 34 authors, and 2 Discussions from 2 authors.</p>]]></description>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-07-05.md</link>
-      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-07-05.md</guid>
     </item>
     <item>
       <title>Released nodejs/undici v8.7.0</title>
