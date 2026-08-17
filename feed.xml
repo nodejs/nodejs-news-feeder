@@ -8,12 +8,68 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Mon, 10 Aug 2026 10:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:06:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/cjs-module-lexer 2.2.1</title>
+      <description><![CDATA[<p>Released nodejs/cjs-module-lexer 2.2.1 by guybedford. <a href="https://github.com/nodejs/cjs-module-lexer/releases/tag/2.2.1">More details</a></p>
+]]></description>
+      <pubDate>Thu, 13 Aug 2026 22:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.2.1</link>
+      <guid>https://github.com/nodejs/cjs-module-lexer/releases/tag/2.2.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-addon-api v8.9.2</title>
+      <description><![CDATA[<p>Released nodejs/node-addon-api v8.9.2 by github-actions[bot]. <a href="https://github.com/nodejs/node-addon-api/releases/tag/v8.9.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 12 Aug 2026 21:06:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-addon-api/releases/tag/v8.9.2</link>
+      <guid>https://github.com/nodejs/node-addon-api/releases/tag/v8.9.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v7.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.1.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.1.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Aug 2026 14:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.1.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @doc-kit/generator-react@0.1.0</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @doc-kit/generator-react@0.1.0 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/generator-react%400.1.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Aug 2026 13:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/generator-react%400.1.0</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/generator-react%400.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @doc-kit/core@1.0.0</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @doc-kit/core@1.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/core%401.0.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Aug 2026 13:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/core%401.0.0</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/core%401.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @doc-kit/cli@1.0.0</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @doc-kit/cli@1.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/cli%401.0.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Aug 2026 13:49:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/cli%401.0.0</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/cli%401.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @node-core/doc-kit@2.0.0</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @node-core/doc-kit@2.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit%402.0.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 10 Aug 2026 13:46:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit%402.0.0</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit%402.0.0</guid>
+    </item>
     <item>
       <title>Released nodejs/node-core-utils v7.0.3</title>
       <description><![CDATA[<p>Released nodejs/node-core-utils v7.0.3 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.0.3">More details</a></p>
@@ -29,6 +85,13 @@
       <pubDate>Sun, 09 Aug 2026 22:39:00 GMT</pubDate>
       <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.0.2</link>
       <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.0.2</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2026-08-09 to 2026-08-16</title>
+      <description><![CDATA[<p>Reporting on 40 Issues from 8 authors, 60 Pull Requests from 34 authors, and 8 Discussions from 7 authors.</p>]]></description>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-08-09.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-08-09.md</guid>
     </item>
     <item>
       <title>Released nodejs/node-core-utils v7.0.1</title>
