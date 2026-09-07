@@ -8,12 +8,164 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 23 Aug 2026 23:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/undici v7.29.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v7.29.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v7.29.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 04 Sep 2026 14:21:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v7.29.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v7.29.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v6.28.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v6.28.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v6.28.1">More details</a></p>
+]]></description>
+      <pubDate>Fri, 04 Sep 2026 14:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v6.28.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v6.28.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v8.10.2</title>
+      <description><![CDATA[<p>Released nodejs/undici v8.10.2 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v8.10.2">More details</a></p>
+]]></description>
+      <pubDate>Fri, 04 Sep 2026 13:56:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v8.10.2</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v8.10.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v8.10.1</title>
+      <description><![CDATA[<p>Released nodejs/undici v8.10.1 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v8.10.1">More details</a></p>
+]]></description>
+      <pubDate>Mon, 31 Aug 2026 13:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v8.10.1</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v8.10.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/import-in-the-middle import-in-the-middle-v3.4.0</title>
+      <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v3.4.0 by github-actions[bot]. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.4.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 31 Aug 2026 10:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.4.0</link>
+      <guid>https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.4.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/corepack v0.36.0</title>
+      <description><![CDATA[<p>Released nodejs/corepack v0.36.0 by github-actions[bot]. <a href="https://github.com/nodejs/corepack/releases/tag/v0.36.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 28 Aug 2026 13:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/corepack/releases/tag/v0.36.0</link>
+      <guid>https://github.com/nodejs/corepack/releases/tag/v0.36.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.8.1</title>
+      <description><![CDATA[<p>Released nodejs/node v26.8.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v26.8.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 26 Aug 2026 22:10:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.8.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.8.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node v26.8.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v26.8.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 26 Aug 2026 14:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.8.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.20.0</title>
+      <description><![CDATA[<p>Released nodejs/node v24.20.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.20.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 26 Aug 2026 14:28:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.20.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.20.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-gyp v13.0.2</title>
+      <description><![CDATA[<p>Released nodejs/node-gyp v13.0.2 by nodejs-github-bot. <a href="https://github.com/nodejs/node-gyp/releases/tag/v13.0.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 26 Aug 2026 13:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-gyp/releases/tag/v13.0.2</link>
+      <guid>https://github.com/nodejs/node-gyp/releases/tag/v13.0.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v7.2.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.2.0 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.2.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 26 Aug 2026 12:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.2.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @node-core/doc-kit@2.0.1</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @node-core/doc-kit@2.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit%402.0.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 17:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit%402.0.1</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit%402.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @node-core/doc-kit-legacy@1.0.1</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @node-core/doc-kit-legacy@1.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit-legacy%401.0.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 17:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit-legacy%401.0.1</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit-legacy%401.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @doc-kit/generator-react@0.2.0</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @doc-kit/generator-react@0.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/generator-react%400.2.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 17:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/generator-react%400.2.0</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/generator-react%400.2.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @doc-kit/core@1.0.1</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @doc-kit/core@1.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/core%401.0.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 17:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/core%401.0.1</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/core%401.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/doc-kit @doc-kit/cli@1.0.1</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @doc-kit/cli@1.0.1 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/cli%401.0.1">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 17:39:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/cli%401.0.1</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40doc-kit/cli%401.0.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v5.0.0</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v5.0.0 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v5.0.0">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 02:05:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.0</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.52</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.52 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.52">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 02:02:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.52</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.52</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v4.4.51</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v4.4.51 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v4.4.51">More details</a></p>
+]]></description>
+      <pubDate>Tue, 25 Aug 2026 00:59:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.51</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v4.4.51</guid>
+    </item>
     <item>
       <title>Released nodejs/nodejs-dist-indexer v1.8.24</title>
       <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.24 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.24">More details</a></p>
