@@ -8,12 +8,60 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 13 Sep 2026 23:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:15:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-core-utils v7.2.3</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.2.3 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.2.3">More details</a></p>
+]]></description>
+      <pubDate>Thu, 17 Sep 2026 14:55:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.2.3</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.2.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.9.0</title>
+      <description><![CDATA[<p>Released nodejs/node v26.9.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v26.9.0">More details</a></p>
+]]></description>
+      <pubDate>Wed, 16 Sep 2026 18:16:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.9.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.9.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v5.0.5</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v5.0.5 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v5.0.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 16 Sep 2026 04:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.5</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.27</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.27 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.27">More details</a></p>
+]]></description>
+      <pubDate>Wed, 16 Sep 2026 04:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.27</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.27</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v7.2.2</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.2.2 by nodejs-github-bot. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.2.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 15 Sep 2026 15:36:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.2.2</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.2.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.2.0</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.2.0 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.2.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 14 Sep 2026 13:24:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.2.0</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.2.0</guid>
+    </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v3.5.1</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v3.5.1 by github-actions[bot]. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.5.1">More details</a></p>
