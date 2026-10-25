@@ -8,12 +8,108 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 18 Oct 2026 23:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:14:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/doc-kit @node-core/doc-kit-legacy@1.1.1</title>
+      <description><![CDATA[<p>Released nodejs/doc-kit @node-core/doc-kit-legacy@1.1.1 by github-actions[bot]. <a href="https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit-legacy%401.1.1">More details</a></p>
+]]></description>
+      <pubDate>Sun, 25 Oct 2026 11:15:00 GMT</pubDate>
+      <link>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit-legacy%401.1.1</link>
+      <guid>https://github.com/nodejs/doc-kit/releases/tag/%40node-core/doc-kit-legacy%401.1.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/orchestrion-js code-transformer-v0.19.0</title>
+      <description><![CDATA[<p>Released nodejs/orchestrion-js code-transformer-v0.19.0 by nodejs-github-bot. <a href="https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.19.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 22 Oct 2026 11:54:00 GMT</pubDate>
+      <link>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.19.0</link>
+      <guid>https://github.com/nodejs/orchestrion-js/releases/tag/code-transformer-v0.19.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v7.5.2</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.5.2 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.5.2">More details</a></p>
+]]></description>
+      <pubDate>Wed, 21 Oct 2026 16:32:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.5.2</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.5.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.12.1</title>
+      <description><![CDATA[<p>Released nodejs/node v26.12.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v26.12.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 21 Oct 2026 10:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.12.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.12.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.22.1</title>
+      <description><![CDATA[<p>Released nodejs/node v24.22.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.22.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 21 Oct 2026 10:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.22.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.22.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.23.4</title>
+      <description><![CDATA[<p>Released nodejs/node v22.23.4 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.23.4">More details</a></p>
+]]></description>
+      <pubDate>Wed, 21 Oct 2026 10:38:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.23.4</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.23.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v5.0.10</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v5.0.10 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v5.0.10">More details</a></p>
+]]></description>
+      <pubDate>Tue, 20 Oct 2026 18:20:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.10</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.10</guid>
+    </item>
+    <item>
+      <title>Released nodejs/amaro v1.2.2</title>
+      <description><![CDATA[<p>Released nodejs/amaro v1.2.2 by nodejs-github-bot. <a href="https://github.com/nodejs/amaro/releases/tag/v1.2.2">More details</a></p>
+]]></description>
+      <pubDate>Tue, 20 Oct 2026 18:04:00 GMT</pubDate>
+      <link>https://github.com/nodejs/amaro/releases/tag/v1.2.2</link>
+      <guid>https://github.com/nodejs/amaro/releases/tag/v1.2.2</guid>
+    </item>
+    <item>
+      <title>Released nodejs/gyp-next v0.22.4</title>
+      <description><![CDATA[<p>Released nodejs/gyp-next v0.22.4 by github-actions[bot]. <a href="https://github.com/nodejs/gyp-next/releases/tag/v0.22.4">More details</a></p>
+]]></description>
+      <pubDate>Tue, 20 Oct 2026 06:23:00 GMT</pubDate>
+      <link>https://github.com/nodejs/gyp-next/releases/tag/v0.22.4</link>
+      <guid>https://github.com/nodejs/gyp-next/releases/tag/v0.22.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/undici v8.12.3</title>
+      <description><![CDATA[<p>Released nodejs/undici v8.12.3 by github-actions[bot]. <a href="https://github.com/nodejs/undici/releases/tag/v8.12.3">More details</a></p>
+]]></description>
+      <pubDate>Mon, 19 Oct 2026 14:01:00 GMT</pubDate>
+      <link>https://github.com/nodejs/undici/releases/tag/v8.12.3</link>
+      <guid>https://github.com/nodejs/undici/releases/tag/v8.12.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/changelog-maker v5.0.9</title>
+      <description><![CDATA[<p>Released nodejs/changelog-maker v5.0.9 by github-actions[bot]. <a href="https://github.com/nodejs/changelog-maker/releases/tag/v5.0.9">More details</a></p>
+]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.9</link>
+      <guid>https://github.com/nodejs/changelog-maker/releases/tag/v5.0.9</guid>
+    </item>
+    <item>
+      <title>Released nodejs/nodejs-dist-indexer v1.8.31</title>
+      <description><![CDATA[<p>Released nodejs/nodejs-dist-indexer v1.8.31 by github-actions[bot]. <a href="https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.31">More details</a></p>
+]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:12:00 GMT</pubDate>
+      <link>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.31</link>
+      <guid>https://github.com/nodejs/nodejs-dist-indexer/releases/tag/v1.8.31</guid>
+    </item>
     <item>
       <title>Released nodejs/remark-preset-lint-node v5.2.0</title>
       <description><![CDATA[<p>Released nodejs/remark-preset-lint-node v5.2.0 by github-actions[bot]. <a href="https://github.com/nodejs/remark-preset-lint-node/releases/tag/v5.2.0">More details</a></p>
