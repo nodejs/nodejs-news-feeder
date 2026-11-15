@@ -8,12 +8,75 @@
     <pubDate>Tue, 13 Jun 2023 04:17:50 GMT</pubDate>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Sun, 08 Nov 2026 23:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:11:00 GMT</lastBuildDate>
     <image>
       <title>Node.js News</title>
       <url>https://nodejs.org/static/images/logo-hexagon-card.png</url>
       <link>https://github.com/nodejs/nodejs-news-feeder</link>
     </image>
+    <item>
+      <title>Released nodejs/node-core-utils v7.8.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.8.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.8.0">More details</a></p>
+]]></description>
+      <pubDate>Fri, 13 Nov 2026 16:50:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.8.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.8.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/llhttp release/v9.4.4</title>
+      <description><![CDATA[<p>Released nodejs/llhttp release/v9.4.4 by ShogunPanda. <a href="https://github.com/nodejs/llhttp/releases/tag/release/v9.4.4">More details</a></p>
+]]></description>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+      <link>https://github.com/nodejs/llhttp/releases/tag/release/v9.4.4</link>
+      <guid>https://github.com/nodejs/llhttp/releases/tag/release/v9.4.4</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v27.0.0-alpha.0.1.0</title>
+      <description><![CDATA[<p>Released nodejs/node v27.0.0-alpha.0.1.0 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0">More details</a></p>
+]]></description>
+      <pubDate>Thu, 12 Nov 2026 13:35:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v26.13.1</title>
+      <description><![CDATA[<p>Released nodejs/node v26.13.1 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v26.13.1">More details</a></p>
+]]></description>
+      <pubDate>Wed, 11 Nov 2026 16:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v26.13.1</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v26.13.1</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v24.22.3</title>
+      <description><![CDATA[<p>Released nodejs/node v24.22.3 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v24.22.3">More details</a></p>
+]]></description>
+      <pubDate>Wed, 11 Nov 2026 16:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v24.22.3</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v24.22.3</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node v22.23.5</title>
+      <description><![CDATA[<p>Released nodejs/node v22.23.5 by aduh95. <a href="https://github.com/nodejs/node/releases/tag/v22.23.5">More details</a></p>
+]]></description>
+      <pubDate>Wed, 11 Nov 2026 16:44:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node/releases/tag/v22.23.5</link>
+      <guid>https://github.com/nodejs/node/releases/tag/v22.23.5</guid>
+    </item>
+    <item>
+      <title>Released nodejs/node-core-utils v7.7.0</title>
+      <description><![CDATA[<p>Released nodejs/node-core-utils v7.7.0 by github-actions[bot]. <a href="https://github.com/nodejs/node-core-utils/releases/tag/v7.7.0">More details</a></p>
+]]></description>
+      <pubDate>Mon, 09 Nov 2026 15:33:00 GMT</pubDate>
+      <link>https://github.com/nodejs/node-core-utils/releases/tag/v7.7.0</link>
+      <guid>https://github.com/nodejs/node-core-utils/releases/tag/v7.7.0</guid>
+    </item>
+    <item>
+      <title>Retrospective for nodejs from 2026-11-08 to 2026-11-15</title>
+      <description><![CDATA[<p>Reporting on 42 Issues from 22 authors, 58 Pull Requests from 34 authors, and 3 Discussions from 3 authors.</p>]]></description>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <link>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-11-08.md</link>
+      <guid>https://github.com/cutenode/retro-weekly/blob/main/retros/2026-11-08.md</guid>
+    </item>
     <item>
       <title>Released nodejs/import-in-the-middle import-in-the-middle-v3.6.0</title>
       <description><![CDATA[<p>Released nodejs/import-in-the-middle import-in-the-middle-v3.6.0 by github-actions[bot]. <a href="https://github.com/nodejs/import-in-the-middle/releases/tag/import-in-the-middle-v3.6.0">More details</a></p>
